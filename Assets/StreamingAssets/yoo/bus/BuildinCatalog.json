@@ -1,0 +1,259 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "bus",
+    "PackageVersion": "2025-09-17-1026",
+    "Wrappers": [
+        {
+            "BundleGUID": "7f7e288c7f37592b1da99ab9340ee2dd",
+            "FileName": "assets_hotupdatedll_hot_update_dll_7f7e288c7f37592b1da99ab9340ee2dd.bundle"
+        },
+        {
+            "BundleGUID": "ae732d1a75063b890a25eb84cb512431",
+            "FileName": "assets_map_map_ae732d1a75063b890a25eb84cb512431.bundle"
+        },
+        {
+            "BundleGUID": "17453cb91f52fc6039b70a84b12ec219",
+            "FileName": "assets_tj_scenes_level_10_17453cb91f52fc6039b70a84b12ec219.bundle"
+        },
+        {
+            "BundleGUID": "8c6531094f5dd832161147f8e41fff5f",
+            "FileName": "assets_tj_scenes_level_1_8c6531094f5dd832161147f8e41fff5f.bundle"
+        },
+        {
+            "BundleGUID": "0d2cb019f4c1360083c917d871cb9c02",
+            "FileName": "assets_tj_scenes_level_2_0d2cb019f4c1360083c917d871cb9c02.bundle"
+        },
+        {
+            "BundleGUID": "02d715a1b308d6667f3ddb9b9976cf2a",
+            "FileName": "assets_tj_scenes_level_3_02d715a1b308d6667f3ddb9b9976cf2a.bundle"
+        },
+        {
+            "BundleGUID": "184acde141e7678ae6def44fb549b24e",
+            "FileName": "assets_tj_scenes_level_4_184acde141e7678ae6def44fb549b24e.bundle"
+        },
+        {
+            "BundleGUID": "2cb667b770ba7d9b87d3d9d826420171",
+            "FileName": "assets_tj_scenes_level_4_1_tunnelintro_2cb667b770ba7d9b87d3d9d826420171.bundle"
+        },
+        {
+            "BundleGUID": "a7306268c9af1e959a33ad9ee025e003",
+            "FileName": "assets_tj_scenes_level_5_a7306268c9af1e959a33ad9ee025e003.bundle"
+        },
+        {
+            "BundleGUID": "d7aaba211edd36739bf8f071c17a0668",
+            "FileName": "assets_tj_scenes_level_6_d7aaba211edd36739bf8f071c17a0668.bundle"
+        },
+        {
+            "BundleGUID": "36a43933f814eebf58ca480520453525",
+            "FileName": "assets_tj_scenes_level_7_36a43933f814eebf58ca480520453525.bundle"
+        },
+        {
+            "BundleGUID": "1316409048445cda14404c3bcca36801",
+            "FileName": "assets_tj_scenes_level_8_1316409048445cda14404c3bcca36801.bundle"
+        },
+        {
+            "BundleGUID": "dd5d84b41c92a91a592c7269e9fa3d8f",
+            "FileName": "assets_tj_scenes_level_9_dd5d84b41c92a91a592c7269e9fa3d8f.bundle"
+        },
+        {
+            "BundleGUID": "254fe37912bf1ccea0b58241acc4658b",
+            "FileName": "share_assets_animationclip_254fe37912bf1ccea0b58241acc4658b.bundle"
+        },
+        {
+            "BundleGUID": "7a59fe3964b2f6ae01168f9438ccb3ca",
+            "FileName": "share_assets_animatorcontroller_7a59fe3964b2f6ae01168f9438ccb3ca.bundle"
+        },
+        {
+            "BundleGUID": "dbdd89107db0c0e6d337ea4e381af727",
+            "FileName": "share_assets_audioclips_dbdd89107db0c0e6d337ea4e381af727.bundle"
+        },
+        {
+            "BundleGUID": "9f41f44804e539e11cccfa28a292ed87",
+            "FileName": "share_assets_confetti_fx_materials_9f41f44804e539e11cccfa28a292ed87.bundle"
+        },
+        {
+            "BundleGUID": "e37cfddc7587e1b2853d095d71d20165",
+            "FileName": "share_assets_confetti_fx_prefabs_2d_explosion_e37cfddc7587e1b2853d095d71d20165.bundle"
+        },
+        {
+            "BundleGUID": "3cddd811b2449c6c5916e35fa90b5841",
+            "FileName": "share_assets_confetti_fx_prefabs_2d_fountain_3cddd811b2449c6c5916e35fa90b5841.bundle"
+        },
+        {
+            "BundleGUID": "d649e9c166ca8a9716e70e797ccea030",
+            "FileName": "share_assets_confetti_fx_textures_d649e9c166ca8a9716e70e797ccea030.bundle"
+        },
+        {
+            "BundleGUID": "82d4c1010ddf1e04c98861b91cf148ff",
+            "FileName": "share_assets_epic_toon_fx_materials_basics_82d4c1010ddf1e04c98861b91cf148ff.bundle"
+        },
+        {
+            "BundleGUID": "fc6465f552f2c669938c9d4d6b74c869",
+            "FileName": "share_assets_epic_toon_fx_materials_misc_magic_fc6465f552f2c669938c9d4d6b74c869.bundle"
+        },
+        {
+            "BundleGUID": "b1b14dd3d8acf70100bcf38068c87e0e",
+            "FileName": "share_assets_epic_toon_fx_prefabs_combat_sword_hit_swordhitmagic_b1b14dd3d8acf70100bcf38068c87e0e.bundle"
+        },
+        {
+            "BundleGUID": "ce712b49723deaff57524466c016ee85",
+            "FileName": "share_assets_epic_toon_fx_prefabs_environment_smoke_white_ce712b49723deaff57524466c016ee85.bundle"
+        },
+        {
+            "BundleGUID": "a980388882a753e0dbd6892196cd2eea",
+            "FileName": "share_assets_epic_toon_fx_textures_a980388882a753e0dbd6892196cd2eea.bundle"
+        },
+        {
+            "BundleGUID": "6d3ec5623f748ecf2527267b120ec97b",
+            "FileName": "share_assets_fonts_6d3ec5623f748ecf2527267b120ec97b.bundle"
+        },
+        {
+            "BundleGUID": "71c0e3d27a6c9f65028102afdf4a3ea9",
+            "FileName": "share_assets_hotupdate_scripts_71c0e3d27a6c9f65028102afdf4a3ea9.bundle"
+        },
+        {
+            "BundleGUID": "b58c6b1294b96f25e14cc2a8bf5e6db5",
+            "FileName": "share_assets_map_animation_levelmapanimations_b58c6b1294b96f25e14cc2a8bf5e6db5.bundle"
+        },
+        {
+            "BundleGUID": "e9b6b104760f0525ee40f27df760334c",
+            "FileName": "share_assets_map_animation_uianimation_backpanel_e9b6b104760f0525ee40f27df760334c.bundle"
+        },
+        {
+            "BundleGUID": "be948f08406f9920ae02227105007227",
+            "FileName": "share_assets_map_animation_uianimation_be948f08406f9920ae02227105007227.bundle"
+        },
+        {
+            "BundleGUID": "2dae9c56431f23e7e0de07b237f27ffb",
+            "FileName": "share_assets_map_animation_uianimation_btn_stop_2dae9c56431f23e7e0de07b237f27ffb.bundle"
+        },
+        {
+            "BundleGUID": "d1e2a5c14eb1ebbafa0c74b174171dba",
+            "FileName": "share_assets_map_animation_uianimation_energy_d1e2a5c14eb1ebbafa0c74b174171dba.bundle"
+        },
+        {
+            "BundleGUID": "b509a7308e2736ba5080072e964a67e2",
+            "FileName": "share_assets_map_animation_uianimation_failpanel_b509a7308e2736ba5080072e964a67e2.bundle"
+        },
+        {
+            "BundleGUID": "48ce6f279cc4e5e3f54c444cf89aa44d",
+            "FileName": "share_assets_map_animation_uianimation_gamepanel_48ce6f279cc4e5e3f54c444cf89aa44d.bundle"
+        },
+        {
+            "BundleGUID": "e615441e9d369ba5f5b669504a38db96",
+            "FileName": "share_assets_map_animation_uianimation_giftbox_e615441e9d369ba5f5b669504a38db96.bundle"
+        },
+        {
+            "BundleGUID": "a9081e1bc5b17e1d5e180fe7c8e8e074",
+            "FileName": "share_assets_map_animation_uianimation_powerupref_a9081e1bc5b17e1d5e180fe7c8e8e074.bundle"
+        },
+        {
+            "BundleGUID": "296c4a9f5a893326c058277e898e0956",
+            "FileName": "share_assets_map_animation_uianimation_sharepanel_296c4a9f5a893326c058277e898e0956.bundle"
+        },
+        {
+            "BundleGUID": "d1b052c3cb668c9fa5c782ecea9c91ff",
+            "FileName": "share_assets_map_animation_uianimation_winpanel_d1b052c3cb668c9fa5c782ecea9c91ff.bundle"
+        },
+        {
+            "BundleGUID": "1d978a50497d2b8af203b013d4b05611",
+            "FileName": "share_assets_map_prefabs_1d978a50497d2b8af203b013d4b05611.bundle"
+        },
+        {
+            "BundleGUID": "621eed5269dcd8de11b7868c1d9948d9",
+            "FileName": "share_assets_map_prefabs_levelroadmaps_621eed5269dcd8de11b7868c1d9948d9.bundle"
+        },
+        {
+            "BundleGUID": "f9eb9992f7a41592362d7faafc71cb04",
+            "FileName": "share_assets_map_uitextures_comp_1_comp_1_f9eb9992f7a41592362d7faafc71cb04.bundle"
+        },
+        {
+            "BundleGUID": "2e14ceb3bac181ef9621d43359557714",
+            "FileName": "share_assets_map_uitextures_home_ui_2_2e14ceb3bac181ef9621d43359557714.bundle"
+        },
+        {
+            "BundleGUID": "76b5ee29dbfa54f75fac10f4f85a1d14",
+            "FileName": "share_assets_map_uitextures_untitled_(4)_76b5ee29dbfa54f75fac10f4f85a1d14.bundle"
+        },
+        {
+            "BundleGUID": "5d650315eed9b825c309e49b14ab48db",
+            "FileName": "share_assets_map_uitextures_untitled_5d650315eed9b825c309e49b14ab48db.bundle"
+        },
+        {
+            "BundleGUID": "2bef5b7c97883341d992e9caa584ea61",
+            "FileName": "share_assets_material_2bef5b7c97883341d992e9caa584ea61.bundle"
+        },
+        {
+            "BundleGUID": "12c970ce3c8f7e2fbab6fc6c1dbc5080",
+            "FileName": "share_assets_material_stickmanmaterials_12c970ce3c8f7e2fbab6fc6c1dbc5080.bundle"
+        },
+        {
+            "BundleGUID": "1d7bbdeee4110a2b9b6bc1fbe8320da0",
+            "FileName": "share_assets_material_vehiclesmaterials_1d7bbdeee4110a2b9b6bc1fbe8320da0.bundle"
+        },
+        {
+            "BundleGUID": "ee0f15eaee2b4b46c52c82e3cbf7466f",
+            "FileName": "share_assets_mesh_ee0f15eaee2b4b46c52c82e3cbf7466f.bundle"
+        },
+        {
+            "BundleGUID": "faff8ba30377e209f7d3bf0266615c15",
+            "FileName": "share_assets_prefabinstance_faff8ba30377e209f7d3bf0266615c15.bundle"
+        },
+        {
+            "BundleGUID": "b35a072dd8a49aec7e41ab4945a0cb4d",
+            "FileName": "share_assets_settings_b35a072dd8a49aec7e41ab4945a0cb4d.bundle"
+        },
+        {
+            "BundleGUID": "0a3f090800387a2859c2e8f4948f9f1e",
+            "FileName": "share_assets_sprite_0a3f090800387a2859c2e8f4948f9f1e.bundle"
+        },
+        {
+            "BundleGUID": "4d746bf035e74e59726d17bb6580d9ae",
+            "FileName": "share_assets_textmesh_pro_fonts_4d746bf035e74e59726d17bb6580d9ae.bundle"
+        },
+        {
+            "BundleGUID": "0bf4f406da8d1fefe06f1feccd661a34",
+            "FileName": "share_assets_textmesh_pro_resources_fonts_&_materials_0bf4f406da8d1fefe06f1feccd661a34.bundle"
+        },
+        {
+            "BundleGUID": "12cfc57a0674b9b415ae97f94146d0e1",
+            "FileName": "share_assets_texture2d_12cfc57a0674b9b415ae97f94146d0e1.bundle"
+        },
+        {
+            "BundleGUID": "86debb32f07cbd955a4ae19cf1e2e0c2",
+            "FileName": "share_assets_tj_fonts_86debb32f07cbd955a4ae19cf1e2e0c2.bundle"
+        },
+        {
+            "BundleGUID": "c9219d995e6647fda2419b1dd60ae64c",
+            "FileName": "share_assets_tj_prefabs_c9219d995e6647fda2419b1dd60ae64c.bundle"
+        },
+        {
+            "BundleGUID": "c0d734ab0d6b329df40542f49d9371ea",
+            "FileName": "share_assets_tj_sounds_c0d734ab0d6b329df40542f49d9371ea.bundle"
+        },
+        {
+            "BundleGUID": "bfedcf859d4893dd7f4aacce2eb9d7c7",
+            "FileName": "share_assets_tj_sprites_bfedcf859d4893dd7f4aacce2eb9d7c7.bundle"
+        },
+        {
+            "BundleGUID": "b76ec534876112bb1913e5550be48a06",
+            "FileName": "share_assets_tj_texture2d_b76ec534876112bb1913e5550be48a06.bundle"
+        },
+        {
+            "BundleGUID": "d0adf7f7e0c386f82220a08e0996457c",
+            "FileName": "share_packages_com_unity_render-pipelines_core_editor_volume_icons_d0adf7f7e0c386f82220a08e0996457c.bundle"
+        },
+        {
+            "BundleGUID": "147a9bb68686a5fbd75eb8413b0fe25c",
+            "FileName": "share_packages_com_unity_render-pipelines_universal_runtime_materials_147a9bb68686a5fbd75eb8413b0fe25c.bundle"
+        },
+        {
+            "BundleGUID": "f1baf7192109c1f5ea1efa0beef056a1",
+            "FileName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos_f1baf7192109c1f5ea1efa0beef056a1.bundle"
+        },
+        {
+            "BundleGUID": "a91d63ad54ec08c3fbcedfb60098f8ea",
+            "FileName": "unityshaders_a91d63ad54ec08c3fbcedfb60098f8ea.bundle"
+        }
+    ]
+}
