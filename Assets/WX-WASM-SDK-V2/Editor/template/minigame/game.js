@@ -90,18 +90,18 @@ checkVersion().then((enable) => {
                     // 文字样式
                     style: {
                         bottom: 300,
-                        height: 24,
-                        width: 240,
+                        height: 30,
+                        width: 280,
                         lineHeight: 24,
                         color: '#ffffff',
-                        fontSize: 12,
+                        fontSize: 16,
                     },
                 },
                 // 进度条样式
                 barConfig: {
                     style: {
-                        width: 240,
-                        height: 24,
+                        width: 280,
+                        height: 30,
                         padding: 2,
                         bottom: 300,
                         backgroundColor: '#07C160',
