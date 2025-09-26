@@ -25,14 +25,19 @@ public class GameEnter : MonoBehaviour
     public  Text result_text;
 
     public EPlayMode _PlayMode;
+    private bool isInit = false;
     // Start is called before the first frame update
     void Start()
     {
-        Init();
+        StartCoroutine(Init());
     }
 
-    public void Init()
+
+
+
+    public IEnumerator Init()
     {
+        yield return null;
         InitResource().Forget();
     }
 
