@@ -1,7 +1,5 @@
 .idea
-.idea
 Bundles
-ExportWeGame
 Logs
 Temp
 TextToolDatas
@@ -15,10 +13,6 @@ Assets/StreamingAssets/build_info.txt
 Assets/StreamingAssets/yoo.meta
 *.blob
 mono_crash.0.0.json
-Library
-Library
-Library
+
 HybridCLRData
 Assets/StreamingAssets/yoo
-Library
-Library

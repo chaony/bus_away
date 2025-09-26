@@ -369,85 +369,88 @@
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.11f1c1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="DemiEditor">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
     </Reference>
     <Reference Include="wx-runtime-editor">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/wx-runtime-editor.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/wx-runtime-editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.FontABTool">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/Unity.FontABTool.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/Unity.FontABTool.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.IOSResolver.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.IOSResolver.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="LitJson">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/LitJson.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/LitJson.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.VersionHandlerImpl.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.VersionHandlerImpl.dll</HintPath>
     </Reference>
     <Reference Include="DemiLib">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenProEditor">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.collab-proxy@2.4.3/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.PackageManagerResolver.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.PackageManagerResolver.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="dnlib">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.code-philosophy.hybridclr@0642726469/Plugins/dnlib.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.code-philosophy.hybridclr@0642726469/Plugins/dnlib.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.JarResolver.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/ExternalDependencyManager/Editor/1.2.174/Google.JarResolver.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenPro">
-      <HintPath>/Users/work/busAway_git/bus_away/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.code-philosophy.hybridclr@0642726469/Plugins/LZ4.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.code-philosophy.hybridclr@0642726469/Plugins/LZ4.dll</HintPath>
     </Reference>
     <Reference Include="wx-editor">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Editor/wx-editor.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Editor/wx-editor.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="wx-perf">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/wx-perf.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/PackageCache/com.qq.weixin.minigame@25827f8ab9/Runtime/Plugins/wx-perf.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.11f1c1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -816,10 +819,10 @@
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.11f1c1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/work/busAway_git/bus_away/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/work/bus_away/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
