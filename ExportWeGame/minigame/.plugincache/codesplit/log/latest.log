@@ -1,0 +1,36 @@
+2025-09-26 13:32:53 [wasmsplit][ide][debug] [api.checkappid]
+2025-09-26 13:32:53 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=-vXINKSm6ULvEktb9pz7Nbz6P-jK6gKPbn0rz8TdMZ8
+2025-09-26 13:32:53 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-26 13:32:53 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
+2025-09-26 13:32:53 [wasmsplit][ide][info] [game.json] apiVersion=false
+2025-09-26 13:32:53 [wasmsplit][ide][info] --------base info--------
+2025-09-26 13:32:53 [wasmsplit][ide][info] isES6:true
+2025-09-26 13:32:53 [wasmsplit][ide][info] unityVersion:2022
+2025-09-26 13:32:53 [wasmsplit][ide][info] isUnity2019:false
+2025-09-26 13:32:53 [wasmsplit][ide][info] unityPlugin:1.2.83
+2025-09-26 13:32:53 [wasmsplit][ide][info] customizedApiVersion:-1
+2025-09-26 13:32:53 [wasmsplit][ide][info] codeMD5:58630c79319ebcb2
+2025-09-26 13:32:53 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
+2025-09-26 13:32:53 [wasmsplit][ide][info] --------base info--------
+2025-09-26 13:32:53 [wasmsplit][ide][info] backup AppID:
+2025-09-26 13:32:53 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"58630c79319ebcb2"}
+2025-09-26 13:32:54 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=I-s_cc-jgtEZ8KsMrzoigJxwnLG9Bn5UabGGCHOim_0
+2025-09-26 13:32:54 [wasmsplit][ide][info] 已禁用代码分包
+2025-09-26 13:33:14 [wasmsplit][ide][debug] [api.checkappid]
+2025-09-26 13:33:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=0EuvYOpTSBoGRMaKba4WTV8M4sIWEOjfSB3nwAinERg
+2025-09-26 13:33:15 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-26 13:33:15 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
+2025-09-26 13:33:15 [wasmsplit][ide][info] [game.json] apiVersion=false
+2025-09-26 13:33:15 [wasmsplit][ide][info] --------base info--------
+2025-09-26 13:33:15 [wasmsplit][ide][info] isES6:true
+2025-09-26 13:33:15 [wasmsplit][ide][info] unityVersion:2022
+2025-09-26 13:33:15 [wasmsplit][ide][info] isUnity2019:false
+2025-09-26 13:33:15 [wasmsplit][ide][info] unityPlugin:1.2.83
+2025-09-26 13:33:15 [wasmsplit][ide][info] customizedApiVersion:-1
+2025-09-26 13:33:15 [wasmsplit][ide][info] codeMD5:58630c79319ebcb2
+2025-09-26 13:33:15 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
+2025-09-26 13:33:15 [wasmsplit][ide][info] --------base info--------
+2025-09-26 13:33:15 [wasmsplit][ide][info] backup AppID:
+2025-09-26 13:33:15 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"58630c79319ebcb2"}
+2025-09-26 13:33:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=D5kdqcqA3_oHX5p0yc9DnMLi3_WYktUzWTiN-D9msf0
+2025-09-26 13:33:16 [wasmsplit][ide][info] 已禁用代码分包
