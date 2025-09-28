@@ -3,18 +3,18 @@ import './weapp-adapter';
 import './events';
 import './texture-config';
 import unityNamespace from './unity-namespace';
-import './webgl.wasm.framework.unityweb';
+import './wasm-split';import './webgl.wasm.framework.unityweb';
 import './unity-sdk/index';
 import checkVersion from './check-version';
 import { launchEventType, scaleMode } from './plugin-config';
 import { preloadWxCommonFont } from './unity-sdk/font/index';
 import './plugins/screen-adapter';
 const managerConfig = {
-    DATA_FILE_MD5: '3545e98fef2f5103',
-    CODE_FILE_MD5: '58630c79319ebcb2',
+    DATA_FILE_MD5: 'da7dd6a50b9a6ae4',
+    CODE_FILE_MD5: '08c4f1f31e1c5747',
     GAME_NAME: 'webgl',
     APPID: 'wxb8b881a33f6f81ff',
-    DATA_FILE_SIZE: '9872209',
+    DATA_FILE_SIZE: '9768182',
     OPT_DATA_FILE_SIZE: '$OPT_DATA_FILE_SIZE',
     DATA_CDN: 'https://636c-cloud1-2gklr93t1302d7ef-1362080318.tcb.qcloud.la/webgl2/',
     // 资源包是否作为小游戏分包加载
@@ -25,7 +25,7 @@ const managerConfig = {
     preloadDataList: [
         // 'DATA_CDN/StreamingAssets/WebGL/textures_8d265a9dfd6cb7669cdb8b726f0afb1e',
         // '/WebGL/sounds_97cd953f8494c3375312e75a29c34fc2'
-        "yoo/bus/share_assets_map_sound_244cc000747f51f3f4c90128ba7fd21a.bundle", "yoo/bus/assets_map_map_13cfa8c51395a3fa5ef5346a969446f7.bundle", "yoo/bus/share_assets_tj_fonts_86debb32f07cbd955a4ae19cf1e2e0c2.bundle", "yoo/bus/share_assets_tj_sprites_4229c1de3c72ee9fdcc34f4dc56a750b.bundle", "yoo/bus/share_assets_tj_texture2d_59da537e2e5fbadccf3c19a87ecb80a5.bundle", ,
+        "yoo/bus/share_assets_map_sound_244cc000747f51f3f4c90128ba7fd21a.bundle", "yoo/bus/share_assets_tj_fonts_86debb32f07cbd955a4ae19cf1e2e0c2.bundle", "yoo/bus/share_assets_tj_sprites_b48f2705d8fe603607c01a26d60d3953.bundle", "yoo/bus/share_assets_tj_texture2d_59da537e2e5fbadccf3c19a87ecb80a5.bundle", "yoo/bus/assets_map_map_f651397100032b08d1e35bc05d6285db.bundle", ,
     ],
     contextConfig: {
         contextType: 2,
@@ -91,18 +91,18 @@ checkVersion().then((enable) => {
                     // 文字样式
                     style: {
                         bottom: 300,
-                        height: 24,
-                        width: 240,
+                        height: 30,
+                        width: 280,
                         lineHeight: 24,
                         color: '#ffffff',
-                        fontSize: 12,
+                        fontSize: 16,
                     },
                 },
                 // 进度条样式
                 barConfig: {
                     style: {
-                        width: 240,
-                        height: 24,
+                        width: 280,
+                        height: 30,
                         padding: 2,
                         bottom: 300,
                         backgroundColor: '#07C160',

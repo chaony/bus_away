@@ -1,34 +1,37 @@
-
 {
-  "deviceOrientation" : "portrait",
-  "iOSHighPerformance" : true,
-  "iOSHighPerformance+" : false,
-  "subpackages"         : [
+  "deviceOrientation": "portrait",
+  "iOSHighPerformance": true,
+  "iOSHighPerformance+": false,
+  "subpackages": [
     {
-      "name" : "wasmcode",
-      "root" : "wasmcode/"
+      "name": "wasmcode",
+      "root": "wasmcode/"
     },
     {
-      "name" : "data-package",
-      "root" : "data-package/"
-    }
-  ],
-  "parallelPreloadSubpackages" : [
+      "name": "data-package",
+      "root": "data-package/"
+    },
     {
-      "name" : "wasmcode"
+      "name": "wasmcode1",
+      "root": "wasmcode1/"
     }
   ],
-  "plugins"                    : {
-    "UnityPlugin" : {
-      "version" : "1.2.83",
-      "provider" : "wxe5a48f1ed5f544b7",
-      "contexts" : [
+  "parallelPreloadSubpackages": [
+    {
+      "name": "wasmcode"
+    }
+  ],
+  "plugins": {
+    "UnityPlugin": {
+      "version": "1.2.83",
+      "provider": "wxe5a48f1ed5f544b7",
+      "contexts": [
         {
-          "type" : "isolatedContext"
+          "type": "isolatedContext"
         }
       ]
     }
   },
-  "workers"                    : "workers",
-  "displayMode"                : "desktop"
+  "workers": "workers",
+  "displayMode": "desktop"
 }

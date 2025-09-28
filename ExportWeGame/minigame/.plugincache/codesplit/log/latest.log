@@ -1,36 +1,1027 @@
-2025-09-26 13:32:53 [wasmsplit][ide][debug] [api.checkappid]
-2025-09-26 13:32:53 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=-vXINKSm6ULvEktb9pz7Nbz6P-jK6gKPbn0rz8TdMZ8
-2025-09-26 13:32:53 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
-2025-09-26 13:32:53 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
-2025-09-26 13:32:53 [wasmsplit][ide][info] [game.json] apiVersion=false
-2025-09-26 13:32:53 [wasmsplit][ide][info] --------base info--------
-2025-09-26 13:32:53 [wasmsplit][ide][info] isES6:true
-2025-09-26 13:32:53 [wasmsplit][ide][info] unityVersion:2022
-2025-09-26 13:32:53 [wasmsplit][ide][info] isUnity2019:false
-2025-09-26 13:32:53 [wasmsplit][ide][info] unityPlugin:1.2.83
-2025-09-26 13:32:53 [wasmsplit][ide][info] customizedApiVersion:-1
-2025-09-26 13:32:53 [wasmsplit][ide][info] codeMD5:58630c79319ebcb2
-2025-09-26 13:32:53 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
-2025-09-26 13:32:53 [wasmsplit][ide][info] --------base info--------
-2025-09-26 13:32:53 [wasmsplit][ide][info] backup AppID:
-2025-09-26 13:32:53 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"58630c79319ebcb2"}
-2025-09-26 13:32:54 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=I-s_cc-jgtEZ8KsMrzoigJxwnLG9Bn5UabGGCHOim_0
-2025-09-26 13:32:54 [wasmsplit][ide][info] 已禁用代码分包
-2025-09-26 13:33:14 [wasmsplit][ide][debug] [api.checkappid]
-2025-09-26 13:33:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=0EuvYOpTSBoGRMaKba4WTV8M4sIWEOjfSB3nwAinERg
-2025-09-26 13:33:15 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
-2025-09-26 13:33:15 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
-2025-09-26 13:33:15 [wasmsplit][ide][info] [game.json] apiVersion=false
-2025-09-26 13:33:15 [wasmsplit][ide][info] --------base info--------
-2025-09-26 13:33:15 [wasmsplit][ide][info] isES6:true
-2025-09-26 13:33:15 [wasmsplit][ide][info] unityVersion:2022
-2025-09-26 13:33:15 [wasmsplit][ide][info] isUnity2019:false
-2025-09-26 13:33:15 [wasmsplit][ide][info] unityPlugin:1.2.83
-2025-09-26 13:33:15 [wasmsplit][ide][info] customizedApiVersion:-1
-2025-09-26 13:33:15 [wasmsplit][ide][info] codeMD5:58630c79319ebcb2
-2025-09-26 13:33:15 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
-2025-09-26 13:33:15 [wasmsplit][ide][info] --------base info--------
-2025-09-26 13:33:15 [wasmsplit][ide][info] backup AppID:
-2025-09-26 13:33:15 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"58630c79319ebcb2"}
-2025-09-26 13:33:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=D5kdqcqA3_oHX5p0yc9DnMLi3_WYktUzWTiN-D9msf0
-2025-09-26 13:33:16 [wasmsplit][ide][info] 已禁用代码分包
+2025-09-28 20:23:15 [wasmsplit][ide][debug] [api.checkappid]
+2025-09-28 20:23:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=LDPK1ckguSZrg1In3miyxANkD8UOtt-Q2rZAw3gguZo
+2025-09-28 20:23:15 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:23:15 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
+2025-09-28 20:23:15 [wasmsplit][ide][info] [game.json] apiVersion=false
+2025-09-28 20:23:15 [wasmsplit][ide][info] --------base info--------
+2025-09-28 20:23:15 [wasmsplit][ide][info] isES6:true
+2025-09-28 20:23:15 [wasmsplit][ide][info] unityVersion:2022
+2025-09-28 20:23:15 [wasmsplit][ide][info] isUnity2019:false
+2025-09-28 20:23:15 [wasmsplit][ide][info] unityPlugin:1.2.83
+2025-09-28 20:23:15 [wasmsplit][ide][info] customizedApiVersion:-1
+2025-09-28 20:23:15 [wasmsplit][ide][info] codeMD5:08c4f1f31e1c5747
+2025-09-28 20:23:15 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
+2025-09-28 20:23:15 [wasmsplit][ide][info] --------base info--------
+2025-09-28 20:23:15 [wasmsplit][ide][info] backup AppID:
+2025-09-28 20:23:15 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:23:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=skJ5PmNCvIciq_QIgVZCC5AqiTHEbiwdQFcVSWyySs8
+2025-09-28 20:23:16 [wasmsplit][ide][info] 已禁用代码分包
+2025-09-28 20:23:19 [wasmsplit][ide][info] webview激活, 传递初始信息: {"appid":"wxb8b881a33f6f81ff","codeMd5":"08c4f1f31e1c5747","subVersion":-1,"isProfile":true,"isFinalStep":false,"wasmToJsReady":false,"wasmToJsFail":false}
+2025-09-28 20:23:19 [wasmsplit][ide][debug] [webview adapter] setuidiabledWasmCodeSplit, payload: undefined
+2025-09-28 20:23:21 [wasmsplit][ide][info] [controller] init
+2025-09-28 20:23:21 [wasmsplit][ide][debug] [api.checkappid]
+2025-09-28 20:23:21 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/checkappid; tmpcode=00FTJsT6ZlmknHzVT6hzrbIySEhN6Hwf9kuKdc6GRkc
+2025-09-28 20:23:22 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:23:22 [wasmsplit][ide][info] [game.json] useWasmBuffer=false
+2025-09-28 20:23:22 [wasmsplit][ide][info] [game.json] apiVersion=false
+2025-09-28 20:23:22 [wasmsplit][ide][info] --------base info--------
+2025-09-28 20:23:22 [wasmsplit][ide][info] isES6:true
+2025-09-28 20:23:22 [wasmsplit][ide][info] unityVersion:2022
+2025-09-28 20:23:22 [wasmsplit][ide][info] isUnity2019:false
+2025-09-28 20:23:22 [wasmsplit][ide][info] unityPlugin:1.2.83
+2025-09-28 20:23:22 [wasmsplit][ide][info] customizedApiVersion:-1
+2025-09-28 20:23:22 [wasmsplit][ide][info] codeMD5:08c4f1f31e1c5747
+2025-09-28 20:23:22 [wasmsplit][ide][info] AppID:wxb8b881a33f6f81ff
+2025-09-28 20:23:22 [wasmsplit][ide][info] --------base info--------
+2025-09-28 20:23:22 [wasmsplit][ide][info] backup AppID:wxb8b881a33f6f81ff
+2025-09-28 20:23:22 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:23:22 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=jKqdUfBDR1uPniGFMWrcaGUdkWr_M1seeizEmstKSbE
+2025-09-28 20:23:22 [wasmsplit][ide][info] 已开启代码分包
+2025-09-28 20:23:22 [wasmsplit][ide][debug] useDotnetRuntime = 0
+2025-09-28 20:23:22 [wasmsplit][ide][debug] subEntries = 0
+2025-09-28 20:23:22 [wasmsplit][ide][debug] frameworkStat = 1
+2025-09-28 20:23:22 [wasmsplit][ide][debug] {"$mid":1,"path":"/Users/work/bus_away/ExportWeGame/minigame/.plugincache/webgl.wasm.framework.unityweb.js","scheme":"file"}
+2025-09-28 20:23:22 [wasmsplit][ide][debug] frameworkExsit=0
+2025-09-28 20:23:22 [wasmsplit][ide][debug] storage目录{"$mid":1,"path":"/Users/zhenchaoni/Library/Application Support/微信开发者工具/50a7d9210159a32f006158795f893857/Default/Editor/1.78/user-data/User/workspaceStorage/17223b7c3ed08f971ac0735c4fae111a/wasm-code-split.wasmCodeSplit","scheme":"file"}
+2025-09-28 20:23:22 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:23:22 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=RH_A1zFR3XEvTmMTQ_LHSk9vHWHTq6ZBzYiWqQazNsE
+2025-09-28 20:23:23 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":""}
+2025-09-28 20:23:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=ez_b4PP3RpTckYaqulAyKhTeN8TayEElmi9aUfDAbXo
+2025-09-28 20:23:23 [wasmsplit][ide][debug] [getGameVersions] metaInfoList: [{"md5":"b75c272c6a3022df","version_desc":"v.1.0.3","create_time":1759044499,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChgvdUtsVzljY1NyaS9BU3BjaUpCSXdRPT0QAxiSx-PGBg","api_version":6},{"md5":"4ccbe240f9773311","version_desc":"v.1.0.3","create_time":1758976057,"func_cnt":13400,"last_collect_func_time":1759037878,"symbol_blob_id":"-_-ChhpbWtWbXpuWlI5U2tJRE9UaVR1SldBPT0QAxi4sN_GBg","api_version":6},{"md5":"1fa77700c4bef750","version_desc":"v1.0.3","create_time":1758948165,"func_cnt":11346,"last_collect_func_time":1758955499,"symbol_blob_id":"-_-ChhMVENQcS9ZQVNEQ3dmYWZBVjBOdGR3PT0QAxjD1t3GBg","api_version":6},{"md5":"c4a763f2b1a0070d","version_desc":"v.1.0.3","create_time":1758941221,"func_cnt":11341,"last_collect_func_time":1758942650,"symbol_blob_id":"-_-ChhKWmhqMjF6eVRzQ3VhTE5NZXVHQ1ZBPT0QAxikoN3GBg","api_version":6},{"md5":"13c9c346d478ee99","version_desc":"v.1.0.3","create_time":1758898928,"func_cnt":11340,"last_collect_func_time":1758900737,"symbol_blob_id":"-_-ChhFdmNpdk8wL1FlNnBpc2czd2ttMHhRPT0QAxju1drGBg","api_version":6},{"md5":"85be650caad9eec9","version_desc":"v.1.0.3","create_time":1758887381,"func_cnt":11337,"last_collect_func_time":1758890230,"symbol_blob_id":"-_-ChgrdEpqdExnM1FheUYxUXlmZVZCSTJ3PT0QAxjT-9nGBg","api_version":6},{"md5":"58630c79319ebcb2","version_desc":"v.1.0.3","create_time":1758866393,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhrdElCb1RVS1E2bVNJVDVWZ09TZTV3PT0QAxjY19jGBg","api_version":6},{"md5":"df9bf777ba75c831","version_desc":"v1.0.3","create_time":1758810732,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhxQTZGakhVMVJjcTd1UlhkZXBPYWtnPT0QAxjrpNXGBg","api_version":6},{"md5":"d3caf2e21ef42b5d","version_desc":"v1.0.3","create_time":1758788862,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhENG4yNHY2K1FkbUZJL3JyUWg2YnB3PT0QAxj8-dPGBg","api_version":6},{"md5":"004dfe260d5c2092","version_desc":"v1.0.3","create_time":1758704110,"func_cnt":13296,"last_collect_func_time":1758704946,"symbol_blob_id":"-_-ChhOMm9WOGIzS1RWR2RVRUxiVTIvYnZBPT0QAxjt487GBg","api_version":6}]
+2025-09-28 20:23:23 [wasmsplit][ide][debug] [compare subversion] remoteversion=-1, localversion=-1
+2025-09-28 20:23:23 [wasmsplit][ide][debug] [initialGetGameVersions] currentMetainfo: undefined
+2025-09-28 20:23:23 [wasmsplit][ide][info] 当前项目未分包
+2025-09-28 20:23:23 [wasmsplit][ide][debug] 初始配置{"appid":"wxb8b881a33f6f81ff","isProfile":true,"codeMd5":"08c4f1f31e1c5747","subVersion":-1,"currentStage":"initProject","needDownloadPrimaryWasmBlobId":"","currentPrimaryWasmBlobId":"","needDownloadSecondaryWasmBlobId":"","currentSecondaryWasmBlobId":"","needDownloadWKWasmBlobId":"","currentWKWasmBlobId":"","needDownloadWasmImportBlobId":"","mergedSmallFunc":false,"logCallInWasm":false,"currentWasmImportBlobId":"","currentRedirMemBlobId":"","needDownloadRedirMemBlobId":"","wasmToJsReady":false,"wasmToJsFail":false,"isFinalStep":false,"unityVersion":2022,"unityVersionStr":"2022.3.11f1c1"}
+2025-09-28 20:23:23 [wasmsplit][ide][info] currentStage:initProject
+2025-09-28 20:23:23 [wasmsplit][ide][debug] [webview adapter] setuiinitProject, payload: undefined
+2025-09-28 20:23:24 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:23:24 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:23:31 [wasmsplit][ide][info] [controller] upload task
+2025-09-28 20:23:31 [wasmsplit][ide][debug] [webview adapter] setuiuploading, payload: undefined
+2025-09-28 20:23:32 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/uploadfile; tmpcode=PxPE8Ca58nqszVJh97K7p1JZPNhvmQorHi9Tc8X3wRE
+2025-09-28 20:23:33 [wasmsplit][ide][time] 上传08c4f1f31e1c5747.webgl.wasm.code.unityweb.wasm.br耗时: 1.973 s
+2025-09-28 20:23:33 [wasmsplit][ide][info] [controller] addGameVersion
+2025-09-28 20:23:33 [wasmsplit][ide][debug] [api.addgameversion] args={"meta_info":{"md5":"08c4f1f31e1c5747","version_desc":"v.1.0.3","unity_version":"2022.3.11f1c1","unity_plugin_version":"1.2.83","wasm_split_plugin_version":"1.1.31"},"wasm_code_blob_id":"-_-ChhyTWIzcm9iU1RubVF2MDJEWkdiSEtRPT0QAxjF0eTGBg","symbol_blob_id":"-_-ChhVQ1Fxek5sUlJLYTZVcDNwSi9iZDd3PT0QAxjF0eTGBg"}
+2025-09-28 20:23:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/addgameversion; tmpcode=akdWAkls55QdoWSlWoNku4pcKoA2ukb7t-4HonPcQvk
+2025-09-28 20:23:34 [wasmsplit][ide][debug] [api.storewasmfunc] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":-1,"api_version":6}}
+2025-09-28 20:23:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/storewasmfunc; tmpcode=8gT1kimRbRjuVSua1fBwEMFKU3J-g_PK7FiVU4-09PQ
+2025-09-28 20:23:35 [wasmsplit][ide][debug] [webview adapter] setuiselectVersion, payload: {"metaInfoList":[{"md5":"b75c272c6a3022df","version_desc":"v.1.0.3","create_time":1759044499,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChgvdUtsVzljY1NyaS9BU3BjaUpCSXdRPT0QAxiSx-PGBg","api_version":6},{"md5":"4ccbe240f9773311","version_desc":"v.1.0.3","create_time":1758976057,"func_cnt":13400,"last_collect_func_time":1759037878,"symbol_blob_id":"-_-ChhpbWtWbXpuWlI5U2tJRE9UaVR1SldBPT0QAxi4sN_GBg","api_version":6},{"md5":"1fa77700c4bef750","version_desc":"v1.0.3","create_time":1758948165,"func_cnt":11346,"last_collect_func_time":1758955499,"symbol_blob_id":"-_-ChhMVENQcS9ZQVNEQ3dmYWZBVjBOdGR3PT0QAxjD1t3GBg","api_version":6},{"md5":"c4a763f2b1a0070d","version_desc":"v.1.0.3","create_time":1758941221,"func_cnt":11341,"last_collect_func_time":1758942650,"symbol_blob_id":"-_-ChhKWmhqMjF6eVRzQ3VhTE5NZXVHQ1ZBPT0QAxikoN3GBg","api_version":6},{"md5":"13c9c346d478ee99","version_desc":"v.1.0.3","create_time":1758898928,"func_cnt":11340,"last_collect_func_time":1758900737,"symbol_blob_id":"-_-ChhFdmNpdk8wL1FlNnBpc2czd2ttMHhRPT0QAxju1drGBg","api_version":6},{"md5":"85be650caad9eec9","version_desc":"v.1.0.3","create_time":1758887381,"func_cnt":11337,"last_collect_func_time":1758890230,"symbol_blob_id":"-_-ChgrdEpqdExnM1FheUYxUXlmZVZCSTJ3PT0QAxjT-9nGBg","api_version":6},{"md5":"58630c79319ebcb2","version_desc":"v.1.0.3","create_time":1758866393,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhrdElCb1RVS1E2bVNJVDVWZ09TZTV3PT0QAxjY19jGBg","api_version":6},{"md5":"df9bf777ba75c831","version_desc":"v1.0.3","create_time":1758810732,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhxQTZGakhVMVJjcTd1UlhkZXBPYWtnPT0QAxjrpNXGBg","api_version":6},{"md5":"d3caf2e21ef42b5d","version_desc":"v1.0.3","create_time":1758788862,"func_cnt":0,"last_collect_func_time":0,"symbol_blob_id":"-_-ChhENG4yNHY2K1FkbUZJL3JyUWg2YnB3PT0QAxj8-dPGBg","api_version":6},{"md5":"004dfe260d5c2092","version_desc":"v1.0.3","create_time":1758704110,"func_cnt":13296,"last_collect_func_time":1758704946,"symbol_blob_id":"-_-ChhOMm9WOGIzS1RWR2RVRUxiVTIvYnZBPT0QAxjt487GBg","api_version":6}],"apiVersion":6,"hasNext":true}
+2025-09-28 20:23:35 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:23:35 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=GXBbNYkpADVUO-CgyUGCnET-KiOdNrF_W7zxsEjrqOM
+2025-09-28 20:23:35 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:23:35 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Wm2x2PTAzqh027ERh8YOYA2LGkKQ5dl3U-82dAZSO9U
+2025-09-28 20:23:36 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:23:36 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:23:36 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:23:46 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:23:46 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=2_fQhJ8awGy8bZ9VfqEgaVLXZ2n3o91vyPhw7CN0PqE
+2025-09-28 20:23:46 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:23:46 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:23:46 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:23:56 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:23:56 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=X8ovExtRcgnsVoNDjY7O7G4-QwQWId98U-JXf3Eq4Tg
+2025-09-28 20:23:57 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:23:57 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:23:57 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:07 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:24:07 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=QO4nSwp2UMcMeVZ92qpLbOj0Zb95IfQ6JUxLpiU77xM
+2025-09-28 20:24:07 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:24:07 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:24:07 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:17 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:24:17 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=t4Exi4mwanHUGITMCQigJWtiAEYMPKo3sMpFN3P7BBU
+2025-09-28 20:24:18 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:24:18 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:24:18 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:28 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:24:28 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=F7tehw9zQPaZbjoNC4ZzZ3ZIkODgD6_5mdI9iXp5t2E
+2025-09-28 20:24:28 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:24:28 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:24:28 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:38 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:24:39 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=TVuUNgeelAYoBS84moBoYo12khDF6CSvXZCg0vDqb8Q
+2025-09-28 20:24:39 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:24:39 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:24:39 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:49 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:24:49 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=PaxEVumIrntdWkEePrc-NEg-L9BEFlvmlBHgx5rkj7Q
+2025-09-28 20:24:49 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:24:49 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:24:49 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:24:59 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:00 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=aFoAV3MxHfk_ReGKjk_8hmnHshhcGhwRwHkTCH9UfO8
+2025-09-28 20:25:00 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:00 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:00 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:25:10 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:10 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=wtKDr84jKqPv_ZgjwE0TNvjgytrcn8mFEhWGDF9Ur-A
+2025-09-28 20:25:10 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:10 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:10 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:25:20 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:21 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=fldHQimTKMUynXdcniQbYIpVyntGvUjBAycOyyNgVO4
+2025-09-28 20:25:21 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:21 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:21 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:25:31 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=ESDnkX06hp230U1wMBw1yjn3PiLE0PIH7ZVYWTnReWs
+2025-09-28 20:25:31 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:31 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:31 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:25:41 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:42 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=04tQuKGdLZBcwgA37yjo_OqNr3FfFM4nF5Kwy55tXiM
+2025-09-28 20:25:42 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:42 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:42 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:25:52 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:25:52 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=4aeeezJGVhiTj7ArD9tagJcrP-zW8qO3v-S7qYWwVpE
+2025-09-28 20:25:52 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:25:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:25:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:03 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=AFByqTnZFzyHrhK0qgeIcazsUfcuNGjw5RmruU4rntY
+2025-09-28 20:26:03 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:03 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:03 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:13 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=z_LL0UZEGZ6H7ayF37vslQtmsYr11OlAqGEZpYZBy_w
+2025-09-28 20:26:13 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:24 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=u5vQiUjjNaMHjICL07-nQffAzp-GDrGREew22zaxQDg
+2025-09-28 20:26:24 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:24 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:24 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:34 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=xTeDET5gW33OHMC74VxXhy7H6r4clVYhXE0YmNRb1jE
+2025-09-28 20:26:34 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:34 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:34 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:44 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:45 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=hNs95H6nDwXGNoObIxL0QFQUjUpVxMrsWDaBrMsOlB8
+2025-09-28 20:26:45 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:45 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:45 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:26:55 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:26:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=GNZ5dPeJARW1lNY5exY6UtYjGHxDtTmZmDs10-Aj3G4
+2025-09-28 20:26:55 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:26:55 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:26:55 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:05 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=idM6wPN22sk8l8dERyGQ8X1-oDMywgMQCHU7qUG-QZI
+2025-09-28 20:27:06 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:06 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:06 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:16 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=7sGm4pxVp7hENdkv45VA6zOO2QJam_-fN_2QV73Zoa0
+2025-09-28 20:27:16 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:16 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:16 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:26 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=tCwxe3y2DGG19mTuG1wSdEyjrg0fdW09j2tAIvS_STw
+2025-09-28 20:27:27 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:27 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:27 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:37 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:37 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=xIN8HGGd9IjKztRbKMu6i0aEMbCwxVA0Wc1VDWMJt6A
+2025-09-28 20:27:38 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:38 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:38 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:48 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:48 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=DE9hr3nVm0yXAKdbNSPqSPw62lqaM0sEwlSbloU4jrw
+2025-09-28 20:27:48 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:48 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:48 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:27:58 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:27:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=bR6Dniu-8K05cQKKfPU_JuN_QrselmjoPMSdR_1lrs8
+2025-09-28 20:27:59 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:27:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:27:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:28:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:28:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=XLRvbKfYuaXnnef0mySQSKz5hVPlDC1NdwZ1Iu_liEk
+2025-09-28 20:28:09 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:28:09 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:28:09 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:28:19 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:28:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=oj7pbLvz2DKlvEW5tX38_rzDV7C93DoPz4KYeaFb5Fo
+2025-09-28 20:28:20 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:28:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:28:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:28:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:28:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=UeUwBekxUEmuBRwqRo1vzKRaKBM4rThApzvVnCEZQEE
+2025-09-28 20:28:30 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:28:30 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:28:30 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:28:40 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:28:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=su8uyP5h8K0AHTrXNNp4R2TCxfy8647ATcCTeYJEurI
+2025-09-28 20:28:41 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:28:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:28:41 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:28:51 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:28:51 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=xU6tR9TB-4-3SXk6ReQSUtka9PioupOE159G--feG8E
+2025-09-28 20:28:52 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:28:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:28:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:02 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=tEAbFVBH1wBrMS1U0n1EfbRSSQbVgMfvv84XqAD6PUM
+2025-09-28 20:29:02 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:02 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:02 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:12 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:12 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=P_4lrGSu0BjYUMhSDuIZC6kCFcpPYNcJZ1PpPOhaXxE
+2025-09-28 20:29:13 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=wtNoQMvf_MQrEMXlmdZqLcXDuWyVWV9MjVKdhv4rjF0
+2025-09-28 20:29:23 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:23 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:23 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:33 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=u3QBGOAWJWiwyJ2Jnff898yWXjz2nEFvDyGy60hHL-8
+2025-09-28 20:29:34 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:34 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:34 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:44 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=7cCkr3Qm34TjLEdg1HnEJYwTUMsqzn_8nc_fgl1Bjt8
+2025-09-28 20:29:44 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:44 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:44 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:29:54 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:29:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=RtANUFivqoGb7IEhtdN8lQwBofLCq6tTCQzBE9D5RQA
+2025-09-28 20:29:55 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:29:55 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:29:55 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:05 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:05 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=agQTVgP5V-vmR8IzEWxrDMSiLX8yokjA2M-Sm4IPzP8
+2025-09-28 20:30:06 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:06 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:06 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:16 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=nf6TCucg3gYgjTIsIleKm0ER_K_qiRe5KOzIhWuLfCk
+2025-09-28 20:30:16 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:16 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:16 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:26 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:26 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=s7BGaGtFMaBiGY1eSp5ZH8htAnv1FY9p-pIZ8_-34wU
+2025-09-28 20:30:27 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:27 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:27 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:37 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:37 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=eZo9yamY63A9tp80DFgWvI7BwqbK0ECv1g9X66lNV5Y
+2025-09-28 20:30:37 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:37 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:37 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:47 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:48 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=gpUgyOHf7uDlJWUmiyHThX_XIKGHoFQsUbn3BmEd3SY
+2025-09-28 20:30:48 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:48 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:48 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:30:58 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:30:58 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=so2SOjxDyAGRzvtyVFvIGDoAQoKvYKv_unOfHLQpa6U
+2025-09-28 20:30:59 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:30:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:30:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:31:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:31:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=KaP5lpyhCyZkL1ZMwGmIYGyGP8SRwWdmP1m17BDJSmY
+2025-09-28 20:31:09 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:31:09 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:31:09 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:31:19 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:31:19 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=XRvHO419bGzUwFJy0HF0q8FF42tKM6tWl0lCVTDwUko
+2025-09-28 20:31:20 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:31:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:31:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:31:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:31:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=qjd8V-3camTxEAhQzdu__z-FaUqF-E8KAP-jmRYUgTE
+2025-09-28 20:31:30 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:31:30 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:31:30 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:31:40 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:31:40 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=KQ6xqNnFq_-Ez06f387o81R_QgY_twXeKsW0__gxskM
+2025-09-28 20:31:41 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:31:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:31:41 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:31:51 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:31:51 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=QD6zqknNrjVSMFgLZRa7loWP-MGheKS3XQCcgLNHNRY
+2025-09-28 20:31:51 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:31:51 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:31:51 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:01 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:01 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=kGG5IqinZWvE7Nb56AaFDFWoKju2alKsOzy6Fa9FnvI
+2025-09-28 20:32:01 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:01 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:01 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:11 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:12 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=tgtgUJz399RjZIXW91v8tlWF2J-80JfVd2oDInhhmbI
+2025-09-28 20:32:12 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:12 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:12 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:22 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:22 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=qrm0Ubs5gAdKzon2GEr8dzcoc6Iy6F3rLD7oqhFn0qc
+2025-09-28 20:32:23 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:23 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:23 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:33 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:33 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=8V3J1WAQY5gxfZIQeFNt6V3OkViMoqmuhx-iXdIN_P0
+2025-09-28 20:32:33 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:33 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:33 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:43 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=lrDubnJPSaZIZAeuO88SlBcGcKkzGHkco87CBh3_c6w
+2025-09-28 20:32:44 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:44 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:44 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:32:54 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:32:54 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=YiMmGQCqaKeiz4kcj_JtB284CMBkysVgaX_CeF_c4rQ
+2025-09-28 20:32:54 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:32:54 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:32:54 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:04 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:05 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=E2TGxdCu8mPugSfT2j0OZNHziHi-5vO5Lh-i_Sy3e58
+2025-09-28 20:33:05 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:05 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:05 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:15 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:15 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Fr0v_H-KusMVPQ4eeq6Gd3tjTsk3jaBtu7eoqmvrW9Y
+2025-09-28 20:33:15 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:15 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:15 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:25 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:26 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=LWPi80RzjyXAj1cIw033Ml_hcb4HZY5ae8sbf1tWYI8
+2025-09-28 20:33:26 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:26 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:26 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:36 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:36 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=NPexjj0rAC-0RlFgg5DIsYfgMI_tTgsjMbkULY6J22Q
+2025-09-28 20:33:37 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:37 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:37 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:47 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:47 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=VysMr9KDQYxBYNGcUEpf_ZhkGcucTmMEt5No951Pj5s
+2025-09-28 20:33:47 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:47 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:47 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:33:57 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:33:57 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=jcIxp-pWW2qXDGspj1ZehXD5Ze_t4VLv7F6GomxgENs
+2025-09-28 20:33:58 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:33:58 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:33:58 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:34:08 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:08 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Vsi6ceaQLTIVeAJIhVqx2AmyguPwe3n_JbZKOO0x618
+2025-09-28 20:34:08 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:34:08 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:34:08 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:34:18 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:19 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=v0n9rcs-chSXElNzKOpUhKh0OEiUMtLB-1QCQOkZtiA
+2025-09-28 20:34:19 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:34:19 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:34:19 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:34:29 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:29 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=sHxoVXc7o_rIwiYg0J85iTenV1KFsXtudsMjRPRw0-w
+2025-09-28 20:34:29 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:34:29 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:34:29 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":3}
+2025-09-28 20:34:39 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:40 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Fv9G25nyrr9m2pSPgKyk7M5qDUVM4jX_ONreGKrgvKk
+2025-09-28 20:34:40 [wasmsplit][ide][info] 轮询预处理结果...
+2025-09-28 20:34:40 [wasmsplit][ide][debug] [compare subversion] remoteversion=undefined, localversion=-1
+2025-09-28 20:34:40 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: true, response={"store_wasm_func_state":1}
+2025-09-28 20:34:40 [wasmsplit][ide][info] 预处理成功
+2025-09-28 20:34:43 [wasmsplit][ide][info] [controller] trigger split task
+2025-09-28 20:34:43 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:34:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=w3_BBefnt_iWiFTP2bW1mues-xl_IqvVOSwzqd7PnLE
+2025-09-28 20:34:44 [wasmsplit][ide][info] 发起profile分包, subVersion: 0
+2025-09-28 20:34:44 [wasmsplit][ide][debug] start split task, canUseCommonPackage=true, canUseApiVersion3=true, apiVersion=6
+2025-09-28 20:34:44 [wasmsplit][ide][debug] [api.startsplit] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0},"is_profile":true,"split_method":2,"api_version":6,"merge_small_func":false,"logcall_in_wasm":false,"refer_md5":"b75c272c6a3022df"}
+2025-09-28 20:34:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/startsplit; tmpcode=ZAfeE9iOv3u7vLvnmKLCY7dug-I_mcTsu52_TbgLerI
+2025-09-28 20:34:45 [wasmsplit][ide][info] [controller] querying split result
+2025-09-28 20:34:45 [wasmsplit][ide][debug] [webview adapter] setuiqueryingSplitResult, payload: {"isWK":false,"canUseCommonPackage":true}
+2025-09-28 20:34:45 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:45 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=opnyzFYeyI_1g1miK8FL9619ye1vNcyeGlAJYFrXNy0
+2025-09-28 20:34:45 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:34:45 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:34:55 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:34:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=T3TTkn3hCCS6kJRUUbE0S9mhv67zgmUlsAmWkZlSX48
+2025-09-28 20:34:56 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:34:56 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:35:06 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:35:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=kJ_qTSirMMIEr9dQp6Y4qjhgR8XcK-OsNmd6Mrwmgyw
+2025-09-28 20:35:06 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:35:06 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:35:16 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:35:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=sOKrHtc8uJiXD1ENZsbF-r9osLbuCUbW4JFAt69VHwk
+2025-09-28 20:35:17 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:35:17 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:35:27 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:35:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=KWNrS3JNMcg5fddkHP5lfth0YKKajSAhi3t5Majk87A
+2025-09-28 20:35:27 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:35:27 [wasmsplit][ide][debug] set apiVersion in querySplitResult case2, old=6, new=6
+2025-09-28 20:35:27 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":2,"primary_wasm_blob_id":"-_-ChhLV0s3bTc5cFFraUR5eStIUGhKUy93PT0QAxj31uTGBg","secondary_wasm_blob_id":"-_-Chg0WTNDSk96WFJaT1phR2lFcEd2d2tnPT0QAxiN1-TGBg","table_size":220637,"is_brotli":true,"api_version":6,"import_sub_func_index_list":[],"static_top":0,"redir_mem_blob_id":"","merged_small_func":false,"logcall_in_wasm":false}]
+2025-09-28 20:35:27 [wasmsplit][ide][info] [controller] download wasm package
+2025-09-28 20:35:27 [wasmsplit][ide][debug] [webview adapter] setuidownloading, payload: undefined
+2025-09-28 20:35:27 [wasmsplit][ide][debug] [api.getfunclistbytype] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0},"func_type":1}
+2025-09-28 20:35:27 [wasmsplit][ide][info] 检查[主包]下载状态, remote=-_-ChhLV0s3bTc5cFFraUR5eStIUGhKUy93PT0QAxj31uTGBg, local=
+2025-09-28 20:35:28 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getfunclistbytype; tmpcode=-1R2NZiwKCC2FrmuDQh4KxjnGNKU2_PMD_V-53naWeM
+2025-09-28 20:35:28 [wasmsplit][ide][info] 拉取函数列表成功
+2025-09-28 20:35:28 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=XCVecXLVor6ZL3eu6I9CHvRiW5W0dZQZ1Co64ajtvW4
+2025-09-28 20:35:29 [wasmsplit][ide][time] 下载主包耗时: 1.771 s
+2025-09-28 20:35:29 [wasmsplit][ide][info] 检查[分包]下载状态, remote=-_-Chg0WTNDSk96WFJaT1phR2lFcEd2d2tnPT0QAxiN1-TGBg, local=
+2025-09-28 20:35:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=eOjRxMhLzEs9bmkh1SUgaK4j_ToObPrVTzja-JBTnVo
+2025-09-28 20:35:31 [wasmsplit][ide][time] 下载分包耗时: 1.614 s
+2025-09-28 20:35:31 [wasmsplit][ide][info] 检查[高性能import包]下载状态, remote=undefined, local=
+2025-09-28 20:35:31 [wasmsplit][ide][info] 无须下载高性能import包
+2025-09-28 20:35:31 [wasmsplit][ide][info] 检查[redirmem包]下载状态, remote=, local=
+2025-09-28 20:35:31 [wasmsplit][ide][info] 无须下载redirmem包
+2025-09-28 20:35:31 [wasmsplit][ide][debug] [downloadSplitResult] apiVersion:6
+2025-09-28 20:35:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs -------
+2025-09-28 20:35:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs apiVersion: 6 -------
+2025-09-28 20:35:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs success -------
+2025-09-28 20:35:31 [wasmsplit][ide][info] ------- replace for record success -------
+2025-09-28 20:35:31 [wasmsplit][ide][debug] [controller] download wasm package success{"isWKTask":false,"needSplitForWk":false}
+2025-09-28 20:35:31 [wasmsplit][ide][debug] [webview adapter] setuiwaitStartRecord, payload: {"funcNum":0,"currentTotalFuncNum":0}
+2025-09-28 20:35:31 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:35:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=OBzXjQnEF5bnr0VGSCfUFDu9Q1E7ni-2Ss0n4WBjWdE
+2025-09-28 20:35:31 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:35:31 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:35:32 [wasmsplit][ide][debug] [compare subversion] remoteversion=0, localversion=0
+2025-09-28 20:35:32 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":0}}
+2025-09-28 20:35:32 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=2pCerDo37tmHpv03_pgBG98j8X6Aaof4-SaJSo_K0qk
+2025-09-28 20:35:32 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:35:32 [wasmsplit][ide][debug] [compare subversion] remoteversion=0, localversion=0
+2025-09-28 20:35:32 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":0,"profile_increment_func_num":0,"is_profile":true,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:35:33 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:35:33 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:35:33 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:35:41 [wasmsplit][ide][info] [controller] trigger split task
+2025-09-28 20:35:41 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:35:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=05YjxubRkjS02yFIjjQ4ycltiOsYMrq15AtJq1rCyNk
+2025-09-28 20:35:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=0, localversion=0
+2025-09-28 20:35:41 [wasmsplit][ide][info] 发起profile分包, subVersion: 1
+2025-09-28 20:35:41 [wasmsplit][ide][debug] start split task, canUseCommonPackage=true, canUseApiVersion3=true, apiVersion=6
+2025-09-28 20:35:41 [wasmsplit][ide][debug] [api.startsplit] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1},"is_profile":true,"split_method":2,"api_version":6,"merge_small_func":false,"logcall_in_wasm":true}
+2025-09-28 20:35:42 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/startsplit; tmpcode=vyibwUnfUOccxn0OYgdANdsYzQt7vzSSQhaTQYMNmRE
+2025-09-28 20:35:42 [wasmsplit][ide][info] [controller] querying split result
+2025-09-28 20:35:42 [wasmsplit][ide][debug] [webview adapter] setuiqueryingSplitResult, payload: {"isWK":false,"canUseCommonPackage":true}
+2025-09-28 20:35:42 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:35:42 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=ZXmO2QvKfnhrjafko51BsAWfO1M4jGUtcHhbz1ulEWM
+2025-09-28 20:35:42 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:35:42 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:35:52 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:35:53 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=E7G44PllGK3j2y7G43Pgm1mZ8lov6T5ef8MNH8ORzjA
+2025-09-28 20:35:53 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:35:53 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:36:03 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:36:04 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=uEMpqhwQG4ej0CsOoEXIUEzuXhjSTbvT8sPSvSy5jm4
+2025-09-28 20:36:04 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:04 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:36:14 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:36:14 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=YjWGbagAGHpKbCfGrqS4s4h0dP103ffKyf1mNmNbH10
+2025-09-28 20:36:14 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:14 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:36:24 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:36:25 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=0xmAtM2qC05ssMT91QR1AjAu8c7aV_j3Yl6dPxmdsJc
+2025-09-28 20:36:25 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:25 [wasmsplit][ide][debug] set apiVersion in querySplitResult case2, old=6, new=6
+2025-09-28 20:36:25 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":2,"primary_wasm_blob_id":"-_-ChhRVXF5ekNKTFRyS3ZSTWUzMGtRVWp3PT0QAxiu1-TGBg","secondary_wasm_blob_id":"-_-ChhTRy9KMUUrYlRpKzVZVW51NXdGOS9nPT0QAxjF1-TGBg","table_size":220637,"is_brotli":true,"api_version":6,"import_sub_func_index_list":[],"static_top":0,"redir_mem_blob_id":"-_-Chh2dmJrSTcxMlRKeWw3NDN1SUdCUWZRPT0QAxik1-TGBg","merged_small_func":false,"logcall_in_wasm":true}]
+2025-09-28 20:36:25 [wasmsplit][ide][info] [controller] download wasm package
+2025-09-28 20:36:25 [wasmsplit][ide][debug] [webview adapter] setuidownloading, payload: undefined
+2025-09-28 20:36:25 [wasmsplit][ide][debug] [api.getfunclistbytype] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1},"func_type":1}
+2025-09-28 20:36:25 [wasmsplit][ide][info] 检查[主包]下载状态, remote=-_-ChhRVXF5ekNKTFRyS3ZSTWUzMGtRVWp3PT0QAxiu1-TGBg, local=-_-ChhLV0s3bTc5cFFraUR5eStIUGhKUy93PT0QAxj31uTGBg
+2025-09-28 20:36:26 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getfunclistbytype; tmpcode=t2a4RfaL3nn5p07o3tmpjpPzdQLpdzNCh3Jkl7xnz_I
+2025-09-28 20:36:26 [wasmsplit][ide][info] 拉取函数列表成功
+2025-09-28 20:36:26 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=XGRDxAPRtOifP8tr4u8MJ2oEAbhPOGfhu08bISIDKPo
+2025-09-28 20:36:27 [wasmsplit][ide][time] 下载主包耗时: 1.732 s
+2025-09-28 20:36:27 [wasmsplit][ide][info] 检查[分包]下载状态, remote=-_-ChhTRy9KMUUrYlRpKzVZVW51NXdGOS9nPT0QAxjF1-TGBg, local=-_-Chg0WTNDSk96WFJaT1phR2lFcEd2d2tnPT0QAxiN1-TGBg
+2025-09-28 20:36:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=IO1Uhn5bIIkEhu4w7yx59FTq1DEf6iF-q37YxDSpW0I
+2025-09-28 20:36:29 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:36:29 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:36:30 [wasmsplit][ide][time] 下载分包耗时: 2.634 s
+2025-09-28 20:36:30 [wasmsplit][ide][info] 检查[高性能import包]下载状态, remote=undefined, local=
+2025-09-28 20:36:30 [wasmsplit][ide][info] 无须下载高性能import包
+2025-09-28 20:36:30 [wasmsplit][ide][info] 检查[redirmem包]下载状态, remote=-_-Chh2dmJrSTcxMlRKeWw3NDN1SUdCUWZRPT0QAxik1-TGBg, local=
+2025-09-28 20:36:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=FnBSmfsUSFtck7_0Jk-RUDfnrsAnOFCh8Qk6PdHYtKY
+2025-09-28 20:36:31 [wasmsplit][ide][time] 下载redirmem包耗时: 727 ms
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [downloadSplitResult] apiVersion:6
+2025-09-28 20:36:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs -------
+2025-09-28 20:36:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs apiVersion: 6 -------
+2025-09-28 20:36:31 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs success -------
+2025-09-28 20:36:31 [wasmsplit][ide][info] ------- replace for record success -------
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [controller] download wasm package success{"isWKTask":false,"needSplitForWk":false}
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [webview adapter] setuiwaitStartRecord, payload: {"funcNum":0,"currentTotalFuncNum":0}
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:36:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=NAhhP1TtvjLivhAs5SVWkJd5f72BL7r1N8JKnpuw-GQ
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [compare subversion] remoteversion=1, localversion=1
+2025-09-28 20:36:31 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":1}}
+2025-09-28 20:36:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=82btkmePZWmeAmyBimlK8k7g_nDSLQvtusrSiWht7zc
+2025-09-28 20:36:31 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:36:32 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:36:32 [wasmsplit][ide][debug] [compare subversion] remoteversion=1, localversion=1
+2025-09-28 20:36:32 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":1,"profile_increment_func_num":0,"is_profile":true,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:36:32 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:36:32 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:36:34 [wasmsplit][ide][info] [controller] trigger split task
+2025-09-28 20:36:34 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:36:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=jdP3s9SAS-BpORgFVD1x1LwpdiWm5OOyZK01dC4fWtE
+2025-09-28 20:36:35 [wasmsplit][ide][debug] [compare subversion] remoteversion=1, localversion=1
+2025-09-28 20:36:35 [wasmsplit][ide][info] 发起release分包, subVersion: 2
+2025-09-28 20:36:35 [wasmsplit][ide][debug] start split task, canUseCommonPackage=true, canUseApiVersion3=true, apiVersion=6
+2025-09-28 20:36:35 [wasmsplit][ide][debug] [api.startsplit] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2},"is_profile":false,"split_method":2,"api_version":6,"merge_small_func":false,"logcall_in_wasm":false}
+2025-09-28 20:36:35 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/startsplit; tmpcode=yotw8HwxISBw308NV1sky2yUFzyEsB-wSkN_YJeUeww
+2025-09-28 20:36:35 [wasmsplit][ide][info] [controller] querying split result
+2025-09-28 20:36:35 [wasmsplit][ide][debug] [webview adapter] setuiqueryingSplitResult, payload: {"isWK":false,"canUseCommonPackage":true}
+2025-09-28 20:36:35 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:36:36 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=bc1ieAHGXLEjIdjCxZCYmyzYJCsRPppRh44wW7X1qdQ
+2025-09-28 20:36:36 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:36 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:36:46 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:36:46 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=rPlwPyqJbIYpuJvLDzxkW60xFTybH_EEGExK8zcftKI
+2025-09-28 20:36:46 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:46 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:36:56 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:36:57 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=ZjMQb11RWcF489VjGOgVjRKy_3EvYwllP6pP8WzNDGU
+2025-09-28 20:36:57 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:36:57 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:07 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:07 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=N8grSH1GgO7tDt7UyjELUlhI4A4X5391P86dbk1no6Y
+2025-09-28 20:37:07 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:37:07 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:17 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:17 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=oA6rjvnl9juBFxnipxEhUgWQ6T8MNzNP-1xlTtGV7ZI
+2025-09-28 20:37:18 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:37:18 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:28 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:28 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=1xUeKqfuyE_gJPyAEptWKXy5rqnepgCcu86qBRFmvZE
+2025-09-28 20:37:28 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:37:28 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:38 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:38 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=SxgIwaoclCeCRyzbEfgqQcCgV7LC8cl1kjJjKzajCT8
+2025-09-28 20:37:39 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:37:39 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:49 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:49 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=3YCZJbezp-CiQLEM92u3At2GPN59nydoSFmVHtPYnRs
+2025-09-28 20:37:49 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:37:49 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:37:59 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:37:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=ulqBLfTnIhtJGUlDSuEASqhkdnUKiHwLuDD0ikVjpjU
+2025-09-28 20:38:00 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:00 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:38:10 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:38:10 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=kiPPDjMpShmGWjPxaEZaG-ZfXzFbLyHc3oU0dhCdbNw
+2025-09-28 20:38:10 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:10 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:38:20 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:38:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=5kqElncprk64uwtq-ix2YaduWtbZo-leVuAfnNvF2bw
+2025-09-28 20:38:20 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:20 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:38:30 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:38:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=IyGaApnCq7pzDPSsVI6V01WNu-N6lQo3siaIiHnNErM
+2025-09-28 20:38:31 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:31 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:38:41 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:38:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=7mbyBPrLJ1sGE3JBt_2DUXfF46pKsrO5QslXmQzST6w
+2025-09-28 20:38:42 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:42 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:38:52 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:38:52 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=RQYa5kYxcfkeDScCQ6P-ot9rU8K4TtdOmEyIlB6PSVs
+2025-09-28 20:38:52 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:38:52 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:02 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:02 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=oUYTdAJI-iFk7x1EGT67lB4gxT27GC9CkWsynTqARI0
+2025-09-28 20:39:02 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:02 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:12 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=iz7UOauNaoWebxCCIBKV1jE-u55SJuiMjcAQcJ0jc4E
+2025-09-28 20:39:13 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:13 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:23 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=36xhXM9lTSTmQQX8Y_hTkZH-BpLvWwENadYeQIAtTUE
+2025-09-28 20:39:23 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:23 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:33 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=-QkgfnNQ2pQnNes3NahYjmMf7WSiMUqYG4U-YuW5WEs
+2025-09-28 20:39:34 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:34 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:44 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=QXKVxBwBzgCWL9teJW-UfJ3vEkKpLPhUE0wae9uQ7aE
+2025-09-28 20:39:44 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:44 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":0,"primary_wasm_blob_id":"","secondary_wasm_blob_id":"","table_size":0,"is_brotli":false,"api_version":0,"import_sub_func_index_list":[]},{"split_method":1,"primary_wasm_blob_id":"","table_size":0,"is_brotli":false,"import_sub_func_index_list":[]}]
+2025-09-28 20:39:54 [wasmsplit][ide][debug] [api.getgamesplitinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamesplitinfo; tmpcode=VUTvagrBo1ORRQnjVU8gd_0DwHvmqRXnYn4NC3GYyYo
+2025-09-28 20:39:55 [wasmsplit][ide][info] 轮询分包结果...
+2025-09-28 20:39:55 [wasmsplit][ide][debug] set apiVersion in querySplitResult case2, old=6, new=6
+2025-09-28 20:39:55 [wasmsplit][ide][debug] [api.getgamesplitinfo] res=[{"split_method":2,"primary_wasm_blob_id":"-_-ChhieVJOUE5KeFJDeUpSaitjdUIrdkl3PT0QAxiM2OTGBg","secondary_wasm_blob_id":"-_-Chg5Q2ROZW1YQ1IwV2lhYWNJdE4zaWl3PT0QAxiR2eTGBg","table_size":220637,"is_brotli":true,"api_version":6,"import_sub_func_index_list":[],"static_top":0,"redir_mem_blob_id":"","merged_small_func":false,"logcall_in_wasm":false}]
+2025-09-28 20:39:55 [wasmsplit][ide][info] [controller] download wasm package
+2025-09-28 20:39:55 [wasmsplit][ide][debug] [webview adapter] setuidownloading, payload: undefined
+2025-09-28 20:39:55 [wasmsplit][ide][debug] [api.getfunclistbytype] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2},"func_type":1}
+2025-09-28 20:39:55 [wasmsplit][ide][info] 检查[主包]下载状态, remote=-_-ChhieVJOUE5KeFJDeUpSaitjdUIrdkl3PT0QAxiM2OTGBg, local=-_-ChhRVXF5ekNKTFRyS3ZSTWUzMGtRVWp3PT0QAxiu1-TGBg
+2025-09-28 20:39:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getfunclistbytype; tmpcode=wlXrvNPynP5kwj-KluUdIhKmhINi2zz2wZcavGvEg4k
+2025-09-28 20:39:56 [wasmsplit][ide][info] 拉取函数列表成功
+2025-09-28 20:39:56 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=5m-XjPiPnCDZ43D-hyzgcNkQQMqyICVTASoWmu6tmi8
+2025-09-28 20:39:57 [wasmsplit][ide][time] 下载主包耗时: 1.334 s
+2025-09-28 20:39:57 [wasmsplit][ide][info] 检查[分包]下载状态, remote=-_-Chg5Q2ROZW1YQ1IwV2lhYWNJdE4zaWl3PT0QAxiR2eTGBg, local=-_-ChhTRy9KMUUrYlRpKzVZVW51NXdGOS9nPT0QAxjF1-TGBg
+2025-09-28 20:39:57 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/downloadfile; tmpcode=14RafFXpVZKKzvyw5pAP07wv_aa6ERjGL0lRvbLIJAs
+2025-09-28 20:39:58 [wasmsplit][ide][time] 下载分包耗时: 1.443 s
+2025-09-28 20:39:58 [wasmsplit][ide][info] 检查[高性能import包]下载状态, remote=undefined, local=
+2025-09-28 20:39:58 [wasmsplit][ide][info] 无须下载高性能import包
+2025-09-28 20:39:58 [wasmsplit][ide][info] 检查[redirmem包]下载状态, remote=, local=-_-Chh2dmJrSTcxMlRKeWw3NDN1SUdCUWZRPT0QAxik1-TGBg
+2025-09-28 20:39:58 [wasmsplit][ide][info] 无须下载redirmem包
+2025-09-28 20:39:58 [wasmsplit][ide][debug] [downloadSplitResult] apiVersion:6
+2025-09-28 20:39:58 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs -------
+2025-09-28 20:39:58 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs apiVersion: 6 -------
+2025-09-28 20:39:58 [wasmsplit][ide][info] ------- insertWasmSplitToGameJs success -------
+2025-09-28 20:39:58 [wasmsplit][ide][info] ------- replace for record success -------
+2025-09-28 20:39:58 [wasmsplit][ide][debug] [controller] download wasm package success{"isWKTask":false,"needSplitForWk":false}
+2025-09-28 20:39:58 [wasmsplit][ide][debug] [webview adapter] setuiwaitStartRecord, payload: {"funcNum":0,"currentTotalFuncNum":0}
+2025-09-28 20:39:58 [wasmsplit][ide][debug] [api.getgamemetabypage] args={"per_page":10,"offset":"08c4f1f31e1c5747"}
+2025-09-28 20:39:58 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgamemetabypage; tmpcode=MhzrLVC3Uiy0E-VM3ZwkBn6ZohRdKznaoDm7iegLIwc
+2025-09-28 20:39:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:39:59 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:39:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=6ks5NnBQZjGmhzu2_MpfPlOnlwqHjMcFAYCKn72nPbQ
+2025-09-28 20:39:59 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:39:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:39:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:40:00 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:40:00 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:40:01 [wasmsplit][ide][debug] UnityPluginVersion=1.2.83
+2025-09-28 20:40:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:40:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=7T5de2DvOvF8oI3h9prKy4zjtzcWTi2dehr3O9Oj80Y
+2025-09-28 20:40:10 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:40:10 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:40:10 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:40:20 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:40:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=s8-eZD2Hm_f_-1RWBGSx5wgNAnLPRtpgoNV-HWqQ2Zw
+2025-09-28 20:40:20 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:40:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:40:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:40:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:40:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=syP0U35Y8BorAzop0K5lbBGu3rGFAV4GiH7HAfKTx0A
+2025-09-28 20:40:31 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:40:31 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:40:31 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:40:41 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:40:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=rncZft0kAXx35_80mLk6rryn_h3ispUkOFyeQGsM6x8
+2025-09-28 20:40:41 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:40:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:40:41 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:40:51 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:40:52 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=PDlNt7bVqNmDMGKhc1N2dDlyidSdOuMmu5Yx3GYpEvA
+2025-09-28 20:40:52 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:40:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:40:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:02 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=1347NuUPy7KCEtQsEav7II6sIy4J2s2eeWnaOXNp9xk
+2025-09-28 20:41:02 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:02 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:02 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:12 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=iphx_qrJFdVi70XX5_UwrRA8KzjAkGbju8aBnYr8h2I
+2025-09-28 20:41:13 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=08Of5IPMTNjO1D5UAqwOJ159YDOVumNL9PRCfSFtGL0
+2025-09-28 20:41:24 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:24 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:24 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:34 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=MFw6FYqjFnlqZ8qJq3-L4-kNr3GFDhWrBVTqeXMoKwc
+2025-09-28 20:41:34 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:34 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:34 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:44 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:45 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=OM9xKQOQ3fBtW8Cp7OseP41Usl--51rfizB9054izNE
+2025-09-28 20:41:45 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:45 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:45 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:41:55 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:41:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=ggEcZzRoPCofZxCuYqwfELGOt6KLHaQnbxMnKpQ-rEE
+2025-09-28 20:41:55 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:41:55 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:41:55 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:05 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=c_CpPBb9F_HT7K2XwlwOHT99cU9z9oyYw0Ixqsee37M
+2025-09-28 20:42:06 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:06 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:06 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:16 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=9B82xYo0DXCFgmEeJoId_Wgoc1uL5hP_5ZpjgrWfC_I
+2025-09-28 20:42:16 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:16 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:16 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:26 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=fwKzb_pqx9-BQx3TijwZXQFvzwTfnWw0KdNUzUqqfEc
+2025-09-28 20:42:27 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:27 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:27 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:37 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:37 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=uKF5L-fq3vdtgex_uUIC2Znbl8xdV6SPXQjzH55RQqA
+2025-09-28 20:42:37 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:37 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:37 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:47 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:48 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=icCn7gMNOljL6qN_0d0WkKgF-fVpaQmcySK-QSFwoIA
+2025-09-28 20:42:48 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:48 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:48 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:42:58 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:42:58 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Y8KNGy1HGU7GP3tdD7vDVhDf0HE1H7WhaJuKPstLPP0
+2025-09-28 20:42:59 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:42:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:42:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:43:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:43:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=liFQVh66YPrED1kyXjGtNFpkfZF51UicuCsOeJJI7Xg
+2025-09-28 20:43:09 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:43:09 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:43:09 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:43:19 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:43:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=OFdBEsfRv3ToUt6ewuMykcbBra4z6yi3dl03-M9yOmY
+2025-09-28 20:43:20 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:43:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:43:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":0,"is_profile":false,"profile_func_num":0,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:43:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:43:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=jYrbX9IXX6rS49T73pi8b7zzJT-Tih1ueTc-DFhrNf0
+2025-09-28 20:43:30 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:43:30 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:43:30 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:43:40 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:43:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=CBOEf5xWN8E56hXKCvEO6o7-Z-dsdLDbsN9rpT-iUZ4
+2025-09-28 20:43:41 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:43:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:43:41 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:43:51 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:43:51 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Kvn0lnXU-cghFitotDl-AZwuCo_oEndVlRbi6fZ3aIM
+2025-09-28 20:43:52 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:43:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:43:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:02 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=BHgFwCIKmk7SPGSxfRONe2ofB94kabYJpd2tTgqIiOQ
+2025-09-28 20:44:02 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:02 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:02 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:12 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=DdDwksAXK7mB1nvyz_MonbsNf47JQpmgKVRC2RgukI8
+2025-09-28 20:44:13 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=PnotjQ3fLEpzYvSf2JchI8hhM8nvuK6F77w5eKTlGSY
+2025-09-28 20:44:23 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:23 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:23 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:33 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=ygKTfqe6F8YnaOrSd6dTtSe8XC_gQ0bdcswF-jytxkE
+2025-09-28 20:44:34 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:34 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:34 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:44 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:44 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=F14mCmYFmjTiQOS0Re0WaYI3jjaeLWi8KKS2yaLbbes
+2025-09-28 20:44:45 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:45 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:45 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:44:55 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:44:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=E1Op_Yl3h-1wOqZvIC8grKxNsFzt8QO2KS8WhHT8ogQ
+2025-09-28 20:44:55 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:44:55 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:44:55 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:05 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=sdZjn8HRyOpIpPJf2OnnPbB9oRqu-j5w_OtcgUQrjkU
+2025-09-28 20:45:06 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:06 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:06 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:16 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=mgsx2X9JLTgpzNlRzxcfnZ-zwqiSZVAprakgfLEwNtw
+2025-09-28 20:45:17 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:17 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:17 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:27 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=HCuqzs40hFejEguAnPa7cN4EH06j8zFGLznh66BjKjA
+2025-09-28 20:45:27 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:27 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:27 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:37 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:38 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=UseGaw96hZ0Q8wZ9p_yXdf5uUDLSy6i0KYbOsllPpto
+2025-09-28 20:45:38 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:38 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:38 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:48 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:48 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=lr-YLVYHAXSmDJug9h7uvuaE60PfOawCJqLtGrOlmHI
+2025-09-28 20:45:48 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:48 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:48 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:45:58 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:45:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=1J-BU1EI9ycZAg6yfxBKwDLmREaa4_xl6TOepGNOiFo
+2025-09-28 20:45:59 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:45:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:45:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:46:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:46:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=xbUvLK9zDNMNGE-1m18HAjl6sDjAv9i9_LnvutruLbE
+2025-09-28 20:46:10 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:46:10 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:46:10 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:46:20 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:46:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=CWaPPKEaRKDFCM7VV4w3STD2P3in5toC3Fji9y6nrlw
+2025-09-28 20:46:20 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:46:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:46:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:46:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:46:30 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=9nfsDVxB5YAVU8sSV9kK4Mi26WtY2B0c2N1Wubf9cno
+2025-09-28 20:46:31 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:46:31 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:46:31 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:46:41 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:46:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=g_AeYW3mrkGjZTuXTgckthyiLjwPbZtbft5aaFxuLy8
+2025-09-28 20:46:41 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:46:41 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:46:41 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:46:51 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:46:52 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=A2oRvRtQ-tnYJ1HquKOKhYEDRH2nAOBY-fxkXxcRi40
+2025-09-28 20:46:52 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:46:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:46:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:02 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Vatlzjxx2uGcrmTen4T9FC2Dj4jdcOcUaf4tF7bC0ls
+2025-09-28 20:47:02 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:02 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:02 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:12 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=qKwCKtEECJsVgRV-y3YEgnYxTvAPjNaydDMV0TVWg_0
+2025-09-28 20:47:13 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:23 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=PryXUYc75fCDHe5WsFRF746oegOy5MDhmAqqsc3C6oI
+2025-09-28 20:47:24 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:24 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:24 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:34 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:34 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=sHxoVXc7o_rIwiYg0J85iVpSJzxxqaXIP4iIzhTRh9U
+2025-09-28 20:47:34 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:34 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:34 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:44 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:45 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=mivKwZJPbcaxzrfjM5mXU_2cXC_xmDjElF6utaGj7rU
+2025-09-28 20:47:45 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:45 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:45 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:47:55 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:47:55 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Kj85SRlj9_kSUaJSI_KJtbhP0Y1qAEt7-tMcZxO41JM
+2025-09-28 20:47:55 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:47:55 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:47:55 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:05 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=b_zVcavc2rIQIhRgJpQnXUzCjNRxXIsi0bNHkufoncI
+2025-09-28 20:48:06 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:06 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:06 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:16 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:16 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=nXj15tPAUnQ3BSOhUgb6GlXJCwZnOsGrCP7-iUWdXdU
+2025-09-28 20:48:17 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:17 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:17 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:27 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:27 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=2O-F6i_ed4DFhBr1p-n442h4AgVe0bCSE_TFh7qdRgg
+2025-09-28 20:48:27 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:27 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:27 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:37 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:38 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=QuS7gR701nogrZ3jAK-RwJE6QgXnP2z0SW_UbiF36c8
+2025-09-28 20:48:38 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:38 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:38 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:48 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:48 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=7jiZHxG2NwMqXkih2QNb0T1hqjmUu5eMV9Mb2Z8xhHw
+2025-09-28 20:48:49 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:49 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:49 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:48:59 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:48:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=W0CqWNbBokoxWc-Yn-ZRF9qtQC5QnYrrvKfjsOpz-gg
+2025-09-28 20:48:59 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:48:59 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:48:59 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:49:09 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:49:09 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=b9PbUTXByI41wblEUi4qrecuagLD3V0cM7ptTOzx4dk
+2025-09-28 20:49:10 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:49:10 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:49:10 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:49:20 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:49:20 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=2ZHaeem3D108HLsylcSTp6zBLAILCNA8kNtvKYHI6qo
+2025-09-28 20:49:20 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:49:20 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:49:20 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:49:30 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:49:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=dhqiKGfqBh6-ZR-1plVjL7Nuuu75DRPgyKMWPkLaaQE
+2025-09-28 20:49:31 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:49:31 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:49:31 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:49:41 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:49:41 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=8vf2D5MRq5AHBMTRVCt7_EO2jCWMAnDH_iFb7zhERUo
+2025-09-28 20:49:42 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:49:42 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:49:42 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:49:52 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:49:52 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=IXsByEMU8NuOgj08UvLErwMIENYZctCIUNxezmITgdk
+2025-09-28 20:49:52 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:49:52 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:49:52 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:02 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:03 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=JAxDOEKkgz7qmfl_6qgjNtvSdVgocolcHJeGWku8u1s
+2025-09-28 20:50:03 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:03 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:03 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:13 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:13 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=sdNdGdvr1NdXdfqC8PVk_Z-TAcimmge3rWp_lIbZvz0
+2025-09-28 20:50:13 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:13 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:13 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:23 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:24 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=GNk3AnKFf1xp-9ZAYGN9IAyxLeZCNyJEi5vSXeOmc4A
+2025-09-28 20:50:24 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:24 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:24 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:34 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:35 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Q5wcxtNk8EIo-s0tGSTwuNvhABejmtJ0_pCf_i0QwvY
+2025-09-28 20:50:35 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:35 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:35 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:45 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:45 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=WcYrOdKS5v37r_3FrBfZPkTmF0A2ccyR5OTpUjwtBjA
+2025-09-28 20:50:45 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:45 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:45 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:50:55 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:50:56 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=RGJghuVl8WY-ts7Io3Wx1x9A171e5rwsZ7aLgvQUVh0
+2025-09-28 20:50:56 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:50:56 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:50:56 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:06 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:06 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=R2M8EvHTsLdhBuTeJochH2x7UmAM8UyNwKspb2olaGE
+2025-09-28 20:51:07 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:51:07 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:51:07 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:17 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:17 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=IfrAO01imPbqoRE4RnrjmOCZ931_LFTN7NRInq4j6VQ
+2025-09-28 20:51:17 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:51:17 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:51:17 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:27 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:28 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=gWaxOy1NB8V55wQC4N5B1qNLkksy4rrmaankRcD4IrU
+2025-09-28 20:51:28 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:51:28 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:51:28 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:38 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:38 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=xTVrpFcbn55nWn1JAaMEpMppPqpMDC83N8YcAthXOFs
+2025-09-28 20:51:38 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:51:38 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:51:38 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:48 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:49 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=ika2e9H3SmMjbGdzMT3j6qtyuilwkaWOZYOMbI-0t2I
+2025-09-28 20:51:49 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:51:49 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:51:49 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:51:59 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:51:59 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=b8XLBCYWi84vNRm1f2ulyWvVxhR4wT63JPuooUa5MOQ
+2025-09-28 20:52:00 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:00 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:00 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:52:10 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:52:10 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=nuTXcZzH-oIINhOLJ8HbWXus4jYZTQHJb7tLBHKxxmg
+2025-09-28 20:52:10 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:10 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:10 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:52:20 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:52:21 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Vaf3WH0s1N5V-Se7nIwudgtXzMd7SZZxsvegT9ERGpI
+2025-09-28 20:52:21 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:21 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:21 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:52:31 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:52:31 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=gqsjVLYGvuYauqtqTRHnujobJ9l6SGCMJwTfCK7bVUk
+2025-09-28 20:52:32 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:32 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:32 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:52:42 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:52:42 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=TxFLQUzZZT8ATBHm1Np8tR3ul8gduST5T3vifEXEGWc
+2025-09-28 20:52:42 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:42 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:42 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:52:52 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:52:53 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=8dCIzHg4vAtdZ0hLt2fPvrzzy7gtCxcvm_aMWhlJm6k
+2025-09-28 20:52:53 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:52:53 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:52:53 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:53:03 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:53:03 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=Z7d4eIN11_viCUgWhi5gTPp--yNryh0dKUxV5NN2iwk
+2025-09-28 20:53:04 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:53:04 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:53:04 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":1,"is_profile":false,"profile_func_num":1,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:53:14 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:53:14 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=SbKHcypSHirWg7OFvSCsxZsySYH0ApGjXvmNkvhQCIA
+2025-09-28 20:53:14 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:53:14 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:53:14 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":2,"is_profile":false,"profile_func_num":2,"source_func_num":111245,"store_wasm_func_state":1}
+2025-09-28 20:53:24 [wasmsplit][ide][debug] [api.getgameprofileinfo] args={"meta_info":{"md5":"08c4f1f31e1c5747","sub_version":2}}
+2025-09-28 20:53:24 [wasmsplit][ide][debug] request url: /cgi-bin/gamewxagwasmsplitwap/getgameprofileinfo; tmpcode=rhuYG6kp1h0X8LGEsYsclUfucBugSMBXkzro60oZhtQ
+2025-09-28 20:53:25 [wasmsplit][ide][info] 轮询分包收集状态...
+2025-09-28 20:53:25 [wasmsplit][ide][debug] [compare subversion] remoteversion=2, localversion=2
+2025-09-28 20:53:25 [wasmsplit][ide][debug] [getGameProfileInfo] queryWasmToJs: false, response={"sub_version":2,"profile_increment_func_num":2,"is_profile":false,"profile_func_num":2,"source_func_num":111245,"store_wasm_func_state":1}
