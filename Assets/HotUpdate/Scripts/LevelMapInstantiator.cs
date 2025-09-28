@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
@@ -8,7 +9,7 @@ using UnityEngine.UI;
 
 namespace Map
 {
-    public class LevelMapInstantiator : Singleton<LevelMapInstantiator>
+    public class LevelMapInstantiator : MonoBehaviour
     {
         public GameObject levelImages;
 
@@ -43,10 +44,17 @@ namespace Map
         Vector3 endPos;
 
         [SerializeField] public TextMeshProUGUI coins;
+        public static LevelMapInstantiator Instance { get; private set; }
 
-        void Start()
+        private void Start()
         {
-            Vibration.Init();
+            Instance = this;
+            Init();
+        }
+
+        public void Init()
+        {
+             //Vibration.Init();
             _playButton.onClick.AddListener(() =>
             {
                 Vibration.Vibrate(30);
@@ -103,7 +111,8 @@ namespace Map
 
             if (!isGiftBox)
             {
-                SetContentHeight();
+                Debug.LogError("LevelMapInstantiator Init");
+               SetContentHeight();
             }
 
             int claimed = PlayerPrefs.GetInt(PlayerPrefsManager.giftClaimed);

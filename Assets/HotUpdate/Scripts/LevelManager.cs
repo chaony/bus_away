@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -13,19 +14,9 @@ namespace TJ.Scripts
         public static int randomLevelStartIDX = 1;
         private static List<int> loadedLevels = new List<int>();
 
-        // private void Awake()
-        // {
-        //     Vibration.Init();
-        // }
         private void Start()
         {
-#if UNITY_EDITOR
-            WX.cloud.Init();
-#else
-        isLoaded = false;
-        PreloadCurLevel();
-
-#endif
+            StartCoroutine(PreloadCurLevel());
         }
 
         // public static void EnterGame()
@@ -34,14 +25,12 @@ namespace TJ.Scripts
         //     LoadScene();
         // }
 
-        public static void PreloadCurLevel()
+        public static IEnumerator PreloadCurLevel()
         {
-            #if UNITY_EDITOR
+            yield return null;
+            isLoaded = false;
 
-            #else
-                 LoadLevel();
-            #endif
-
+            LoadLevel();
         }
 
         public static void EnterMainScene()

@@ -10,6 +10,8 @@ using YooAsset;
 using UnityEngine.Networking;
 using WeChatWASM;
 using System;
+using Object = UnityEngine.Object;
+
 
 public class GameEnter : MonoBehaviour
 {
@@ -23,12 +25,14 @@ public class GameEnter : MonoBehaviour
     public Button clickBtn;
 
     public  Text result_text;
+    public GameObject mapCanvasGO;
 
     public EPlayMode _PlayMode;
     private bool isInit = false;
     // Start is called before the first frame update
     void Start()
     {
+        WX.PreloadConcurrent(5);
         StartCoroutine(Init());
     }
 
@@ -92,7 +96,7 @@ public class GameEnter : MonoBehaviour
         package = YooAssets.CreatePackage("bus");
         YooAssets.SetDefaultPackage(package);
 
-        result_text.text =CDN;
+        //result_text.text =CDN;
 
 
 #if UNITY_WEBGL
@@ -132,18 +136,15 @@ public class GameEnter : MonoBehaviour
 #endif
 
 #endif
-
         var init = package.InitializeAsync(initializeParameters);
-
         await init;
-
 
         //ClearVersionFile(packageRoot,package.PackageName);
 
         var version = package.RequestPackageVersionAsync();
 
         await version;
-        result_text.text = version.PackageVersion;
+        //result_text.text = version.PackageVersion;
         var update = package.UpdatePackageManifestAsync(version.PackageVersion);
 
         await update;
@@ -155,56 +156,71 @@ public class GameEnter : MonoBehaviour
        var laodHotUpdateDll = package.LoadAssetAsync<TextAsset>("hot_update.dll");
        await laodHotUpdateDll;
        TextAsset dllData = laodHotUpdateDll.AssetObject as TextAsset;
-       Debug.LogError("dllDataLength"+dllData.bytes.Length);
+       //Debug.LogError("dllDataLength"+dllData.bytes.Length);
        Assembly hotUpdateAss = Assembly.Load(dllData.bytes);
-       Type levelManager= hotUpdateAss.GetType("TJ.Scripts.LevelManager");
-       levelManager.GetMethod("EnterMainScene").Invoke(null, null);
-      // LevelManager.EnterMainScene();
+
+
+       //StartCoroutine(ShowMapCanvas());
+       AssetHandle handle=package.LoadAssetAsync<GameObject>("MapCanvas");
+       await handle;
+       handle.InstantiateSync();
+
+
+
+       /*Type LevelMapInstantiator= hotUpdateAss.GetType("Map.LevelMapInstantiator");
+       PropertyInfo instanceProperty =LevelMapInstantiator.GetProperty("Instance");
+       object LevelMapInstantiator_obj = instanceProperty.GetValue(null);
+
+       MethodInfo initMethod= LevelMapInstantiator.GetMethod("Init");
+       initMethod.Invoke(LevelMapInstantiator_obj, null);*/
+
+       //levelManager.GetMethod("EnterMainScene").Invoke(null, null);
+       // LevelManager.EnterMainScene();
 #if WEIXINMINIGAME
 
-        //更新字体 事先隐藏的就不需要
-        // tip.UpdateFontAsset();
-        // tip.SetAllDirty();
+       //更新字体 事先隐藏的就不需要
+       // tip.UpdateFontAsset();
+       // tip.SetAllDirty();
 
-        // tip.text = "1、修改转换工具cdn地址 、appid、设置导出路径\n2、修改GameEnter CDN\n3、添加TMP_SDF-Mobile着色器到内置shaders清单";
-        // tip.gameObject.SetActive(true);
-        // var download = DefaultPackage.CreateResourceDownloader(3, 10);
-        //
-        // var a = 0;
-        // clickBtn.gameObject.SetActive(true);
-        // clickBtn.onClick.AddListener(() =>
-        // {
-        //     a++;
-        //     tip.text = a.ToString();
-        // });
-        //
-        // download.BeginDownload();
-        //
-        // await download;
-        //
-        // var loadHandle = DefaultPackage.LoadAssetAsync<GameObject>("GameObject");
-        //
-        // await loadHandle;
-        //
-        // var instant = loadHandle.InstantiateAsync();
-        //
-        // await instant;
-        //
-        // var _wxFileSystemMgr = WeChatWASM.WX.GetFileSystemManager();
-        //
-        // //测试读取 sa 资源
-        // _wxFileSystemMgr.ReadFile(new WeChatWASM.ReadFileParam()
-        // {
-        //     filePath = WeChatWASM.WX.env.USER_DATA_PATH + "/StreamingAssets/aa.png",
-        //     success = (success) =>
-        //     {
-        //         Debug.Log("load success");
-        //     },
-        //     fail = (fail) =>
-        //     {
-        //
-        //     }
-        // });
+       // tip.text = "1、修改转换工具cdn地址 、appid、设置导出路径\n2、修改GameEnter CDN\n3、添加TMP_SDF-Mobile着色器到内置shaders清单";
+       // tip.gameObject.SetActive(true);
+       // var download = DefaultPackage.CreateResourceDownloader(3, 10);
+       //
+       // var a = 0;
+       // clickBtn.gameObject.SetActive(true);
+       // clickBtn.onClick.AddListener(() =>
+       // {
+       //     a++;
+       //     tip.text = a.ToString();
+       // });
+       //
+       // download.BeginDownload();
+       //
+       // await download;
+       //
+       // var loadHandle = DefaultPackage.LoadAssetAsync<GameObject>("GameObject");
+       //
+       // await loadHandle;
+       //
+       // var instant = loadHandle.InstantiateAsync();
+       //
+       // await instant;
+       //
+       // var _wxFileSystemMgr = WeChatWASM.WX.GetFileSystemManager();
+       //
+       // //测试读取 sa 资源
+       // _wxFileSystemMgr.ReadFile(new WeChatWASM.ReadFileParam()
+       // {
+       //     filePath = WeChatWASM.WX.env.USER_DATA_PATH + "/StreamingAssets/aa.png",
+       //     success = (success) =>
+       //     {
+       //         Debug.Log("load success");
+       //     },
+       //     fail = (fail) =>
+       //     {
+       //
+       //     }
+       // });
 
 
 #else
@@ -215,6 +231,11 @@ public class GameEnter : MonoBehaviour
 #if WEIXINMINIGAME
 
 
+    IEnumerator ShowMapCanvas()
+    {
+        yield return null;
+        mapCanvasGO.SetActive(true);
+    }
     public void ClearVersionFile(string packageRoot,string packageName)
     {
         string versionPath = YooAsset.PathUtility.Combine("StreamingAssets", YooAssetSettingsData.GetDefaultYooFolderName(), packageName,".version");

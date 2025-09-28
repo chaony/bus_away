@@ -29,8 +29,8 @@ MonoBehaviour:
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/Map/Map.unity
-        CollectorGUID: d40a6cac37918b4418a348af8b499a7f
+      - CollectPath: Assets/Map/Prefabs/MapCanvas.prefab
+        CollectorGUID: d45034877d9434a6593c55342019ca96
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackSeparately
