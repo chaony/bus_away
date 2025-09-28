@@ -19,13 +19,8 @@ namespace TJ.Scripts
         // }
         private void Start()
         {
-#if UNITY_EDITOR
-            WX.cloud.Init();
-#else
-        isLoaded = false;
-        PreloadCurLevel();
-
-#endif
+            isLoaded = false;
+            PreloadCurLevel();
         }
 
         // public static void EnterGame()
@@ -36,12 +31,7 @@ namespace TJ.Scripts
 
         public static void PreloadCurLevel()
         {
-            #if UNITY_EDITOR
-
-            #else
-                 LoadLevel();
-            #endif
-
+            LoadLevel();
         }
 
         public static void EnterMainScene()

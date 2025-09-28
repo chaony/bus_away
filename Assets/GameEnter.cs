@@ -75,7 +75,7 @@ public class GameEnter : MonoBehaviour
         }
 
         string result = _webRequest.downloadHandler.text;
-        result_text.text = result;
+        //result_text.text = result;
         Debug.Log(result);
     }
 
@@ -92,7 +92,7 @@ public class GameEnter : MonoBehaviour
         package = YooAssets.CreatePackage("bus");
         YooAssets.SetDefaultPackage(package);
 
-        result_text.text =CDN;
+        //result_text.text =CDN;
 
 
 #if UNITY_WEBGL
@@ -143,7 +143,7 @@ public class GameEnter : MonoBehaviour
         var version = package.RequestPackageVersionAsync();
 
         await version;
-        result_text.text = version.PackageVersion;
+        //result_text.text = version.PackageVersion;
         var update = package.UpdatePackageManifestAsync(version.PackageVersion);
 
         await update;
